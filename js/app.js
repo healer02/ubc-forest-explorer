@@ -4,6 +4,7 @@ import { openDB } from './db.js';
 import { todayView } from './today.js';
 import { speciesView } from './species.js';
 import { progressView } from './progress.js';
+import { reviewView } from './review.js';
 import { esc, toast } from './ui.js';
 
 import { APP_VERSION } from './ui.js';
@@ -16,7 +17,7 @@ const placeholder = (title, text) => async (root) => {
 
 const ROUTES = {
   today: { tab: 'today', view: todayView },
-  review: { tab: 'review', view: placeholder('Review', 'The photo quiz with spaced repetition arrives in Step 3. For now, open a species from Today or Progress and read its ID features.') },
+  review: { tab: 'review', view: reviewView, focus: true },
   add: { tab: 'add', view: placeholder('Add observation', 'Camera photo, species, GPS and a short note arrive in Step 4.') },
   progress: { tab: 'progress', view: progressView },
   species: { tab: 'progress', view: speciesView },
@@ -38,6 +39,7 @@ async function render() {
     a.toggleAttribute('aria-current', a.dataset.tab === route.tab);
     if (a.dataset.tab === route.tab) a.setAttribute('aria-current', 'page');
   }
+  document.body.classList.toggle('focus', !!route.focus);
   const viewEl = document.createElement('div');
   viewEl.className = `screen screen-${name}`;
   try {

@@ -1,11 +1,12 @@
 // Service worker: makes the app open and work offline on campus.
 // Bump VERSION whenever app files change so phones pick up the update.
-const VERSION = '0.2.0';
+const VERSION = '0.3.0';
 const SHELL = `ufe-shell-${VERSION}`;
 const PHOTOS = 'ufe-photos-v1';
 const SHELL_FILES = [
   './', 'index.html', 'manifest.webmanifest', 'css/app.css',
   'js/app.js', 'js/db.js', 'js/content.js', 'js/ui.js', 'js/today.js', 'js/species.js', 'js/progress.js',
+  'js/scheduler.js', 'js/review.js',
   'data/species.json', 'data/photos.json', 'data/locations.json',
   'icons/icon-180.png', 'icons/icon-192.png',
 ];

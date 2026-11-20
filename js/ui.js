@@ -31,4 +31,4 @@ export function firstPhoto(content, speciesId, role = 'leaf') {
 }
 
 // Shown on the Progress screen. Keep in step with VERSION in sw.js.
-export const APP_VERSION = '0.2.0';
+export const APP_VERSION = '0.3.0';

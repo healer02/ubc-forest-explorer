@@ -1,21 +1,14 @@
 // Today: dashboard, species of the day, today's controversy, Start review.
 import { getAll, count } from './db.js';
+import { studyPlan, masteryLevel, cardsBySpecies } from './scheduler.js';
 import { speciesOfDay, controversyOfDay, checkItems, verifiedMap, isVerified, dayNumber } from './content.js';
 import { esc, checkChip, firstPhoto } from './ui.js';
 
-const MASTERED_DAYS = 21; // a species counts as mastered when all its cards are spaced 3+ weeks apart
-
 export async function dashboardStats(content) {
-  const [cards, reviews, observations] = await Promise.all([getAll('cards'), getAll('reviews'), count('observations')]);
-  const now = Date.now();
-  const bySpecies = new Map();
-  for (const c of cards) {
-    if (!bySpecies.has(c.speciesId)) bySpecies.set(c.speciesId, []);
-    bySpecies.get(c.speciesId).push(c);
-  }
+  const [plan, reviews, observations] = await Promise.all([studyPlan(content), getAll('reviews'), count('observations')]);
   let mastered = 0;
-  for (const list of bySpecies.values()) if (list.every((c) => (c.interval || 0) >= MASTERED_DAYS)) mastered++;
-  const due = cards.filter((c) => c.due <= now).length;
+  for (const list of cardsBySpecies(plan.cards).values()) if (masteryLevel(list) === 'mastered') mastered++;
+  const due = plan.due.length;
 
   const days = new Set(reviews.map((r) => dayNumber(new Date(r.at))));
   let d = dayNumber();
@@ -23,7 +16,7 @@ export async function dashboardStats(content) {
   let streak = 0;
   while (days.has(d)) { streak++; d--; }
 
-  return { mastered, total: content.species.length, due, observations, streak, hasCards: cards.length > 0 };
+  return { mastered, total: content.species.length, due, fresh: plan.fresh.length, session: plan.total, observations, streak };
 }
 
 export async function todayView(root, content) {
@@ -44,7 +37,7 @@ export async function todayView(root, content) {
 
     <section class="stats" aria-label="Your progress">
       <div class="stat"><b>${st.mastered}</b><span>Mastered</span><small>of ${st.total} species</small></div>
-      <div class="stat"><b>${st.due}</b><span>Due</span><small>cards to review</small></div>
+      <div class="stat"><b>${st.due}</b><span>Due</span><small>${st.fresh ? `+ ${st.fresh} new ${st.fresh === 1 ? 'species' : 'species'}` : 'cards to review'}</small></div>
       <div class="stat"><b>${st.observations}</b><span>Observations</span><small>your field notes</small></div>
       <div class="stat"><b>${st.streak}</b><span>Day streak</span><small>${st.streak === 1 ? 'day' : 'days'} in a row</small></div>
     </section>
@@ -66,7 +59,9 @@ export async function todayView(root, content) {
     </a>
 
     <div class="cta-wrap">
-      <a class="cta" href="#/review">Start review${st.hasCards ? '' : '<small>Quiz arrives in Step 3</small>'}</a>
+      ${st.session
+        ? `<a class="cta" href="#/review">Start review<small>${st.session} ${st.session === 1 ? 'card' : 'cards'} · about ${Math.max(1, Math.round(st.due * 0.25 + st.fresh * 0.75))} min</small></a>`
+        : '<a class="cta secondary" href="#/review">All caught up<small>Nothing due right now</small></a>'}
     </div>
   `;
 }
