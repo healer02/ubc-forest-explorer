@@ -1,0 +1,1169 @@
+{
+ "note": "Seed quiz photos. Licences limited to CC0, CC BY and public domain. Your own photos replace these over time.",
+ "photos": {
+  "thuja-plicata": [
+   {
+    "file": "photos/seed/thuja-plicata/leaf-183421004.jpg",
+    "role": "leaf",
+    "source": "iNaturalist",
+    "license": "CC BY",
+    "credit": "(c) LainieBarbarian, some rights reserved (CC BY)",
+    "link": "https://www.inaturalist.org/observations/108889345"
+   },
+   {
+    "file": "photos/seed/thuja-plicata/leaf-158535408.jpg",
+    "role": "leaf",
+    "source": "iNaturalist",
+    "license": "CC0",
+    "credit": "no rights reserved",
+    "link": "https://www.inaturalist.org/observations/95491820"
+   },
+   {
+    "file": "photos/seed/thuja-plicata/bark-245356027.jpg",
+    "role": "bark",
+    "source": "iNaturalist",
+    "license": "CC0",
+    "credit": "no rights reserved",
+    "link": "https://www.inaturalist.org/observations/143074069"
+   },
+   {
+    "file": "photos/seed/thuja-plicata/form-180385487.jpg",
+    "role": "form",
+    "source": "iNaturalist",
+    "license": "CC BY",
+    "credit": "(c) Josh Baryia, some rights reserved (CC BY)",
+    "link": "https://www.inaturalist.org/observations/107272087"
+   },
+   {
+    "file": "photos/seed/thuja-plicata/form-118490756.jpg",
+    "role": "form",
+    "source": "iNaturalist",
+    "license": "CC0",
+    "credit": "no rights reserved",
+    "link": "https://www.inaturalist.org/observations/72652403"
+   },
+   {
+    "file": "photos/seed/thuja-plicata/fruit-155509249.jpg",
+    "role": "fruit",
+    "source": "iNaturalist",
+    "license": "CC BY",
+    "credit": "(c) David Dyck, some rights reserved (CC BY)",
+    "link": "https://www.inaturalist.org/observations/93800881"
+   }
+  ],
+  "pseudotsuga-menziesii": [
+   {
+    "file": "photos/seed/pseudotsuga-menziesii/leaf-159545535.jpg",
+    "role": "leaf",
+    "source": "iNaturalist",
+    "license": "CC0",
+    "credit": "no rights reserved",
+    "link": "https://www.inaturalist.org/observations/96061463"
+   },
+   {
+    "file": "photos/seed/pseudotsuga-menziesii/leaf-34300467.jpg",
+    "role": "leaf",
+    "source": "iNaturalist",
+    "license": "CC0",
+    "credit": "no rights reserved",
+    "link": "https://www.inaturalist.org/observations/22156714"
+   },
+   {
+    "file": "photos/seed/pseudotsuga-menziesii/fruit-135632629.jpg",
+    "role": "fruit",
+    "source": "iNaturalist",
+    "license": "CC0",
+    "credit": "no rights reserved",
+    "link": "https://www.inaturalist.org/observations/82629838"
+   },
+   {
+    "file": "photos/seed/pseudotsuga-menziesii/fruit-159321015.jpg",
+    "role": "fruit",
+    "source": "iNaturalist",
+    "license": "CC0",
+    "credit": "no rights reserved",
+    "link": "https://www.inaturalist.org/observations/95933995"
+   },
+   {
+    "file": "photos/seed/pseudotsuga-menziesii/bark-580052883.jpg",
+    "role": "bark",
+    "source": "iNaturalist",
+    "license": "CC BY",
+    "credit": "(c) Caleb Catto, some rights reserved (CC BY)",
+    "link": "https://www.inaturalist.org/observations/320788550"
+   },
+   {
+    "file": "photos/seed/pseudotsuga-menziesii/form-287949655.jpg",
+    "role": "form",
+    "source": "iNaturalist",
+    "license": "CC BY",
+    "credit": "(c) J Straka, some rights reserved (CC BY)",
+    "link": "https://www.inaturalist.org/observations/166301793"
+   }
+  ],
+  "tsuga-heterophylla": [
+   {
+    "file": "photos/seed/tsuga-heterophylla/leaf-128460288.jpg",
+    "role": "leaf",
+    "source": "iNaturalist",
+    "license": "CC0",
+    "credit": "no rights reserved",
+    "link": "https://www.inaturalist.org/observations/78494905"
+   },
+   {
+    "file": "photos/seed/tsuga-heterophylla/leaf-434050348.jpg",
+    "role": "leaf",
+    "source": "iNaturalist",
+    "license": "CC0",
+    "credit": "no rights reserved",
+    "link": "https://www.inaturalist.org/observations/243422337"
+   },
+   {
+    "file": "photos/seed/tsuga-heterophylla/fruit-561012732.jpg",
+    "role": "fruit",
+    "source": "iNaturalist",
+    "license": "CC BY",
+    "credit": "(c) Abby Hyde, some rights reserved (CC BY)",
+    "link": "https://www.inaturalist.org/observations/310823956"
+   },
+   {
+    "file": "photos/seed/tsuga-heterophylla/form-178154119.jpg",
+    "role": "form",
+    "source": "iNaturalist",
+    "license": "CC0",
+    "credit": "no rights reserved",
+    "link": "https://www.inaturalist.org/observations/106090930"
+   },
+   {
+    "file": "photos/seed/tsuga-heterophylla/form-431808089.jpg",
+    "role": "form",
+    "source": "iNaturalist",
+    "license": "CC0",
+    "credit": "no rights reserved",
+    "link": "https://www.inaturalist.org/observations/242219897"
+   }
+  ],
+  "abies-grandis": [
+   {
+    "file": "photos/seed/abies-grandis/leaf-182655258.jpg",
+    "role": "leaf",
+    "source": "iNaturalist",
+    "license": "CC0",
+    "credit": "no rights reserved",
+    "link": "https://www.inaturalist.org/observations/108482372"
+   },
+   {
+    "file": "photos/seed/abies-grandis/leaf-177391128.jpg",
+    "role": "leaf",
+    "source": "iNaturalist",
+    "license": "CC0",
+    "credit": "no rights reserved",
+    "link": "https://www.inaturalist.org/observations/105694495"
+   },
+   {
+    "file": "photos/seed/abies-grandis/bark-56306406.jpg",
+    "role": "bark",
+    "source": "iNaturalist",
+    "license": "CC0",
+    "credit": "no rights reserved",
+    "link": "https://www.inaturalist.org/observations/35688866"
+   },
+   {
+    "file": "photos/seed/abies-grandis/bark-243321050.jpg",
+    "role": "bark",
+    "source": "iNaturalist",
+    "license": "CC BY",
+    "credit": "(c) Noah How, some rights reserved (CC BY)",
+    "link": "https://www.inaturalist.org/observations/141969110"
+   },
+   {
+    "file": "photos/seed/abies-grandis/form-commons-3.jpg",
+    "role": "form",
+    "source": "Wikimedia Commons",
+    "license": "CC BY 3.0 us",
+    "credit": "Chris Schnepf, University of Idaho, United States, CC BY 3.0 us, via Wikimedia Commons",
+    "link": "https://commons.wikimedia.org/wiki/File:Abies_grandis_crown_youngtree.jpg"
+   }
+  ],
+  "callitropsis-nootkatensis": [
+   {
+    "file": "photos/seed/callitropsis-nootkatensis/leaf-209967365.jpg",
+    "role": "leaf",
+    "source": "iNaturalist",
+    "license": "CC BY",
+    "credit": "(c) Lyrae, some rights reserved (CC BY)",
+    "link": "https://www.inaturalist.org/observations/123912197"
+   },
+   {
+    "file": "photos/seed/callitropsis-nootkatensis/leaf-571738758.jpg",
+    "role": "leaf",
+    "source": "iNaturalist",
+    "license": "CC BY",
+    "credit": "(c) Abby Hyde, some rights reserved (CC BY)",
+    "link": "https://www.inaturalist.org/observations/316446357"
+   },
+   {
+    "file": "photos/seed/callitropsis-nootkatensis/fruit-576046707.jpg",
+    "role": "fruit",
+    "source": "iNaturalist",
+    "license": "CC BY",
+    "credit": "(c) Abby Hyde, some rights reserved (CC BY)",
+    "link": "https://www.inaturalist.org/observations/318718585"
+   },
+   {
+    "file": "photos/seed/callitropsis-nootkatensis/bark-297580554.jpg",
+    "role": "bark",
+    "source": "iNaturalist",
+    "license": "CC BY",
+    "credit": "(c) Noah How, some rights reserved (CC BY)",
+    "link": "https://www.inaturalist.org/observations/171491905"
+   },
+   {
+    "file": "photos/seed/callitropsis-nootkatensis/form-209967339.jpg",
+    "role": "form",
+    "source": "iNaturalist",
+    "license": "CC BY",
+    "credit": "(c) Lyrae, some rights reserved (CC BY)",
+    "link": "https://www.inaturalist.org/observations/123912197"
+   }
+  ],
+  "acer-circinatum": [
+   {
+    "file": "photos/seed/acer-circinatum/leaf-385305978.jpg",
+    "role": "leaf",
+    "source": "iNaturalist",
+    "license": "CC0",
+    "credit": "no rights reserved",
+    "link": "https://www.inaturalist.org/observations/217780925"
+   },
+   {
+    "file": "photos/seed/acer-circinatum/leaf-562008449.jpg",
+    "role": "leaf",
+    "source": "iNaturalist",
+    "license": "CC0",
+    "credit": "no rights reserved",
+    "link": "https://www.inaturalist.org/observations/311335794"
+   },
+   {
+    "file": "photos/seed/acer-circinatum/bark-587161092.jpg",
+    "role": "bark",
+    "source": "iNaturalist",
+    "license": "CC0",
+    "credit": "no rights reserved",
+    "link": "https://www.inaturalist.org/observations/324413971"
+   },
+   {
+    "file": "photos/seed/acer-circinatum/form-587161063.jpg",
+    "role": "form",
+    "source": "iNaturalist",
+    "license": "CC0",
+    "credit": "no rights reserved",
+    "link": "https://www.inaturalist.org/observations/324413971"
+   },
+   {
+    "file": "photos/seed/acer-circinatum/fruit-401375905.jpg",
+    "role": "fruit",
+    "source": "iNaturalist",
+    "license": "CC0",
+    "credit": "no rights reserved",
+    "link": "https://www.inaturalist.org/observations/226326600"
+   },
+   {
+    "file": "photos/seed/acer-circinatum/seasonal-164328512.jpg",
+    "role": "seasonal",
+    "source": "iNaturalist",
+    "license": "CC0",
+    "credit": "no rights reserved",
+    "link": "https://www.inaturalist.org/observations/98667210"
+   }
+  ],
+  "acer-macrophyllum": [
+   {
+    "file": "photos/seed/acer-macrophyllum/leaf-429493600.jpg",
+    "role": "leaf",
+    "source": "iNaturalist",
+    "license": "CC BY",
+    "credit": "(c) Bodhi Cull, some rights reserved (CC BY)",
+    "link": "https://www.inaturalist.org/observations/241021673"
+   },
+   {
+    "file": "photos/seed/acer-macrophyllum/leaf-196110943.jpg",
+    "role": "leaf",
+    "source": "iNaturalist",
+    "license": "CC BY",
+    "credit": "(c) Jennifer Aitkens, some rights reserved (CC BY)",
+    "link": "https://www.inaturalist.org/observations/116193564"
+   },
+   {
+    "file": "photos/seed/acer-macrophyllum/bark-141788996.jpg",
+    "role": "bark",
+    "source": "iNaturalist",
+    "license": "CC0",
+    "credit": "no rights reserved",
+    "link": "https://www.inaturalist.org/observations/86107912"
+   },
+   {
+    "file": "photos/seed/acer-macrophyllum/form-121010571.jpg",
+    "role": "form",
+    "source": "iNaturalist",
+    "license": "CC0",
+    "credit": "no rights reserved",
+    "link": "https://www.inaturalist.org/observations/74067666"
+   },
+   {
+    "file": "photos/seed/acer-macrophyllum/form-173441040.jpg",
+    "role": "form",
+    "source": "iNaturalist",
+    "license": "CC BY",
+    "credit": "(c) David Dyck, some rights reserved (CC BY)",
+    "link": "https://www.inaturalist.org/observations/103606098"
+   },
+   {
+    "file": "photos/seed/acer-macrophyllum/flower-192339206.jpg",
+    "role": "flower",
+    "source": "iNaturalist",
+    "license": "CC BY",
+    "credit": "(c) David Dyck, some rights reserved (CC BY)",
+    "link": "https://www.inaturalist.org/observations/113870803"
+   }
+  ],
+  "cornus-nuttallii": [
+   {
+    "file": "photos/seed/cornus-nuttallii/flower-192376844.jpg",
+    "role": "flower",
+    "source": "iNaturalist",
+    "license": "CC0",
+    "credit": "no rights reserved",
+    "link": "https://www.inaturalist.org/observations/113896129"
+   },
+   {
+    "file": "photos/seed/cornus-nuttallii/flower-376729436.jpg",
+    "role": "flower",
+    "source": "iNaturalist",
+    "license": "CC BY",
+    "credit": "(c) Noah How, some rights reserved (CC BY)",
+    "link": "https://www.inaturalist.org/observations/213178069"
+   },
+   {
+    "file": "photos/seed/cornus-nuttallii/leaf-135681332.jpg",
+    "role": "leaf",
+    "source": "iNaturalist",
+    "license": "CC0",
+    "credit": "no rights reserved",
+    "link": "https://www.inaturalist.org/observations/82655614"
+   },
+   {
+    "file": "photos/seed/cornus-nuttallii/fruit-231829089.jpg",
+    "role": "fruit",
+    "source": "iNaturalist",
+    "license": "CC BY",
+    "credit": "(c) Justin Flint, some rights reserved (CC BY)",
+    "link": "https://www.inaturalist.org/observations/135881315"
+   },
+   {
+    "file": "photos/seed/cornus-nuttallii/form-206987232.jpg",
+    "role": "form",
+    "source": "iNaturalist",
+    "license": "CC BY",
+    "credit": "(c) Trevor Van Loon, some rights reserved (CC BY)",
+    "link": "https://www.inaturalist.org/observations/122263153"
+   }
+  ],
+  "alnus-rubra": [
+   {
+    "file": "photos/seed/alnus-rubra/leaf-195425234.jpg",
+    "role": "leaf",
+    "source": "iNaturalist",
+    "license": "CC0",
+    "credit": "no rights reserved",
+    "link": "https://www.inaturalist.org/observations/115792223"
+   },
+   {
+    "file": "photos/seed/alnus-rubra/leaf-207149653.jpg",
+    "role": "leaf",
+    "source": "iNaturalist",
+    "license": "CC BY",
+    "credit": "(c) Lyrae, some rights reserved (CC BY)",
+    "link": "https://www.inaturalist.org/observations/122359104"
+   },
+   {
+    "file": "photos/seed/alnus-rubra/bark-227923809.jpg",
+    "role": "bark",
+    "source": "iNaturalist",
+    "license": "CC BY",
+    "credit": "(c) Sam Turner, some rights reserved (CC BY)",
+    "link": "https://www.inaturalist.org/observations/133779671"
+   },
+   {
+    "file": "photos/seed/alnus-rubra/bark-44626742.jpg",
+    "role": "bark",
+    "source": "iNaturalist",
+    "license": "CC BY",
+    "credit": "(c) Sarah Vermaak, some rights reserved (CC BY)",
+    "link": "https://www.inaturalist.org/observations/28620336"
+   },
+   {
+    "file": "photos/seed/alnus-rubra/fruit-195425182.jpg",
+    "role": "fruit",
+    "source": "iNaturalist",
+    "license": "CC0",
+    "credit": "no rights reserved",
+    "link": "https://www.inaturalist.org/observations/115792223"
+   },
+   {
+    "file": "photos/seed/alnus-rubra/form-631269803.jpg",
+    "role": "form",
+    "source": "iNaturalist",
+    "license": "CC BY",
+    "credit": "(c) Aiva Noringseth, some rights reserved (CC BY)",
+    "link": "https://www.inaturalist.org/observations/346314043"
+   }
+  ],
+  "arbutus-menziesii": [
+   {
+    "file": "photos/seed/arbutus-menziesii/bark-414746939.jpg",
+    "role": "bark",
+    "source": "iNaturalist",
+    "license": "CC BY",
+    "credit": "(c) J Straka, some rights reserved (CC BY)",
+    "link": "https://www.inaturalist.org/observations/233377275"
+   },
+   {
+    "file": "photos/seed/arbutus-menziesii/bark-2714495.jpg",
+    "role": "bark",
+    "source": "iNaturalist",
+    "license": "CC BY",
+    "credit": "(c) Riley Pollom, some rights reserved (CC BY)",
+    "link": "http://inaturalist.ca/observations/2435101"
+   },
+   {
+    "file": "photos/seed/arbutus-menziesii/leaf-2714397.jpg",
+    "role": "leaf",
+    "source": "iNaturalist",
+    "license": "CC BY",
+    "credit": "(c) Riley Pollom, some rights reserved (CC BY)",
+    "link": "http://inaturalist.ca/observations/2435101"
+   },
+   {
+    "file": "photos/seed/arbutus-menziesii/form-366864737.jpg",
+    "role": "form",
+    "source": "iNaturalist",
+    "license": "CC BY",
+    "credit": "(c) J Straka, some rights reserved (CC BY)",
+    "link": "https://www.inaturalist.org/observations/207406277"
+   },
+   {
+    "file": "photos/seed/arbutus-menziesii/form-190863551.jpg",
+    "role": "form",
+    "source": "iNaturalist",
+    "license": "CC0",
+    "credit": "no rights reserved",
+    "link": "https://www.inaturalist.org/observations/112970226"
+   }
+  ],
+  "quercus-garryana": [
+   {
+    "file": "photos/seed/quercus-garryana/leaf-321436066.jpg",
+    "role": "leaf",
+    "source": "iNaturalist",
+    "license": "CC0",
+    "credit": "no rights reserved",
+    "link": "https://www.inaturalist.org/observations/184171142"
+   },
+   {
+    "file": "photos/seed/quercus-garryana/leaf-321436130.jpg",
+    "role": "leaf",
+    "source": "iNaturalist",
+    "license": "CC0",
+    "credit": "no rights reserved",
+    "link": "https://www.inaturalist.org/observations/184171142"
+   },
+   {
+    "file": "photos/seed/quercus-garryana/bark-563852223.jpg",
+    "role": "bark",
+    "source": "iNaturalist",
+    "license": "CC BY",
+    "credit": "(c) Emerson, some rights reserved (CC BY)",
+    "link": "https://www.inaturalist.org/observations/312305276"
+   },
+   {
+    "file": "photos/seed/quercus-garryana/form-366864846.jpg",
+    "role": "form",
+    "source": "iNaturalist",
+    "license": "CC BY",
+    "credit": "(c) J Straka, some rights reserved (CC BY)",
+    "link": "https://www.inaturalist.org/observations/207406337"
+   },
+   {
+    "file": "photos/seed/quercus-garryana/form-366864915.jpg",
+    "role": "form",
+    "source": "iNaturalist",
+    "license": "CC BY",
+    "credit": "(c) J Straka, some rights reserved (CC BY)",
+    "link": "https://www.inaturalist.org/observations/207406363"
+   }
+  ],
+  "pinus-nigra": [
+   {
+    "file": "photos/seed/pinus-nigra/leaf-560256159.jpg",
+    "role": "leaf",
+    "source": "iNaturalist",
+    "license": "CC BY",
+    "credit": "(c) Marios Thoma, some rights reserved (CC BY)",
+    "link": "https://www.inaturalist.org/observations/310421419"
+   },
+   {
+    "file": "photos/seed/pinus-nigra/leaf-1468654.jpg",
+    "role": "leaf",
+    "source": "iNaturalist",
+    "license": "CC BY",
+    "credit": "(c) Alice Shanks, some rights reserved (CC BY)",
+    "link": "http://naturewatch.org.nz/observations/1164971"
+   },
+   {
+    "file": "photos/seed/pinus-nigra/fruit-624642884.jpg",
+    "role": "fruit",
+    "source": "iNaturalist",
+    "license": "CC0",
+    "credit": "no rights reserved",
+    "link": "https://www.inaturalist.org/observations/342964854"
+   },
+   {
+    "file": "photos/seed/pinus-nigra/form-123470641.jpg",
+    "role": "form",
+    "source": "iNaturalist",
+    "license": "CC BY",
+    "credit": "(c) Евгений Егорейченков, some rights reserved (CC BY)",
+    "link": "https://www.inaturalist.org/observations/75469492"
+   },
+   {
+    "file": "photos/seed/pinus-nigra/form-420069425.jpg",
+    "role": "form",
+    "source": "iNaturalist",
+    "license": "CC BY",
+    "credit": "(c) Marios Thoma, some rights reserved (CC BY)",
+    "link": "https://www.inaturalist.org/observations/236145209"
+   }
+  ],
+  "cedrus-deodara": [
+   {
+    "file": "photos/seed/cedrus-deodara/leaf-333137644.jpg",
+    "role": "leaf",
+    "source": "iNaturalist",
+    "license": "CC BY",
+    "credit": "(c) SamKelly, some rights reserved (CC BY)",
+    "link": "https://www.inaturalist.org/observations/190080233"
+   },
+   {
+    "file": "photos/seed/cedrus-deodara/leaf-209358803.jpg",
+    "role": "leaf",
+    "source": "iNaturalist",
+    "license": "CC BY",
+    "credit": "(c) Susan Marley, some rights reserved (CC BY)",
+    "link": "https://www.inaturalist.org/observations/123578492"
+   },
+   {
+    "file": "photos/seed/cedrus-deodara/fruit-209358773.jpg",
+    "role": "fruit",
+    "source": "iNaturalist",
+    "license": "CC BY",
+    "credit": "(c) Susan Marley, some rights reserved (CC BY)",
+    "link": "https://www.inaturalist.org/observations/123578492"
+   },
+   {
+    "file": "photos/seed/cedrus-deodara/form-506229943.jpg",
+    "role": "form",
+    "source": "iNaturalist",
+    "license": "CC0",
+    "credit": "no rights reserved",
+    "link": "https://www.inaturalist.org/observations/281812828"
+   },
+   {
+    "file": "photos/seed/cedrus-deodara/form-739317092.jpg",
+    "role": "form",
+    "source": "iNaturalist",
+    "license": "CC BY",
+    "credit": "(c) Xthnob, some rights reserved (CC BY)",
+    "link": "https://www.inaturalist.org/observations/402707169"
+   },
+   {
+    "file": "photos/seed/cedrus-deodara/bark-173132153.jpg",
+    "role": "bark",
+    "source": "iNaturalist",
+    "license": "CC BY",
+    "credit": "(c) Jagdish Singh Negi, some rights reserved (CC BY)",
+    "link": "https://www.inaturalist.org/observations/103445043"
+   }
+  ],
+  "sequoiadendron-giganteum": [
+   {
+    "file": "photos/seed/sequoiadendron-giganteum/leaf-167614179.jpg",
+    "role": "leaf",
+    "source": "iNaturalist",
+    "license": "CC BY",
+    "credit": "(c) David Bartholow, some rights reserved (CC BY)",
+    "link": "https://www.inaturalist.org/observations/100161409"
+   },
+   {
+    "file": "photos/seed/sequoiadendron-giganteum/leaf-33234605.jpg",
+    "role": "leaf",
+    "source": "iNaturalist",
+    "license": "CC BY",
+    "credit": "(c) Nelson Balcar, some rights reserved (CC BY)",
+    "link": "https://www.inaturalist.org/observations/21478131"
+   },
+   {
+    "file": "photos/seed/sequoiadendron-giganteum/fruit-319260144.jpg",
+    "role": "fruit",
+    "source": "iNaturalist",
+    "license": "CC0",
+    "credit": "no rights reserved",
+    "link": "https://www.inaturalist.org/observations/183037912"
+   },
+   {
+    "file": "photos/seed/sequoiadendron-giganteum/bark-748103956.jpg",
+    "role": "bark",
+    "source": "iNaturalist",
+    "license": "CC BY",
+    "credit": "(c) Hank Raizen, some rights reserved (CC BY)",
+    "link": "https://www.inaturalist.org/observations/407125763"
+   },
+   {
+    "file": "photos/seed/sequoiadendron-giganteum/form-465442158.jpg",
+    "role": "form",
+    "source": "iNaturalist",
+    "license": "CC BY",
+    "credit": "(c) Dean Hester, some rights reserved (CC BY)",
+    "link": "https://www.inaturalist.org/observations/259301734"
+   },
+   {
+    "file": "photos/seed/sequoiadendron-giganteum/form-234355751.jpg",
+    "role": "form",
+    "source": "iNaturalist",
+    "license": "CC BY",
+    "credit": "(c) Jason Hernandez, some rights reserved (CC BY)",
+    "link": "https://www.inaturalist.org/observations/137241757"
+   }
+  ],
+  "metasequoia-glyptostroboides": [
+   {
+    "file": "photos/seed/metasequoia-glyptostroboides/leaf-285729081.jpg",
+    "role": "leaf",
+    "source": "iNaturalist",
+    "license": "CC BY",
+    "credit": "(c) W Rao, some rights reserved (CC BY)",
+    "link": "https://www.inaturalist.org/observations/165090761"
+   },
+   {
+    "file": "photos/seed/metasequoia-glyptostroboides/leaf-402811264.jpg",
+    "role": "leaf",
+    "source": "iNaturalist",
+    "license": "CC BY",
+    "credit": "(c) WATANABE Hitoshi 渡辺仁, some rights reserved (CC BY)",
+    "link": "https://www.inaturalist.org/observations/227086190"
+   },
+   {
+    "file": "photos/seed/metasequoia-glyptostroboides/bark-commons-0.jpg",
+    "role": "bark",
+    "source": "Wikimedia Commons",
+    "license": "CC BY 4.0",
+    "credit": "Steffen Bauer (saatpilot.de), CC BY 4.0, via Wikimedia Commons",
+    "link": "https://commons.wikimedia.org/wiki/File:Metasequoia_glyptostroboides_(dawn_redwood),_trunk_(SaatPilot).jpg"
+   },
+   {
+    "file": "photos/seed/metasequoia-glyptostroboides/form-commons-1.jpg",
+    "role": "form",
+    "source": "Wikimedia Commons",
+    "license": "CC BY 4.0",
+    "credit": "Steffen Bauer (saatpilot.de), CC BY 4.0, via Wikimedia Commons",
+    "link": "https://commons.wikimedia.org/wiki/File:Metasequoia_glyptostroboides_(dawn_redwood),_tree_(SaatPilot).jpg"
+   },
+   {
+    "file": "photos/seed/metasequoia-glyptostroboides/seasonal-commons-6.jpg",
+    "role": "seasonal",
+    "source": "Wikimedia Commons",
+    "license": "CC BY 4.0",
+    "credit": "A. E. Wright, CC BY 4.0, via Wikimedia Commons",
+    "link": "https://commons.wikimedia.org/wiki/File:Metasequoia_glyptostroboides_Hu_and_W.C.Cheng_(AM_AK209566-2).jpg"
+   }
+  ],
+  "ginkgo-biloba": [
+   {
+    "file": "photos/seed/ginkgo-biloba/leaf-289977514.jpg",
+    "role": "leaf",
+    "source": "iNaturalist",
+    "license": "CC BY",
+    "credit": "(c) jamie-aa, some rights reserved (CC BY)",
+    "link": "https://www.inaturalist.org/observations/167402588"
+   },
+   {
+    "file": "photos/seed/ginkgo-biloba/leaf-74219570.jpg",
+    "role": "leaf",
+    "source": "iNaturalist",
+    "license": "CC BY",
+    "credit": "(c) Emily Summerbell, some rights reserved (CC BY)",
+    "link": "https://www.inaturalist.org/observations/46798725"
+   },
+   {
+    "file": "photos/seed/ginkgo-biloba/seasonal-250082872.jpg",
+    "role": "seasonal",
+    "source": "iNaturalist",
+    "license": "CC BY",
+    "credit": "(c) Samuele Papeschi, some rights reserved (CC BY)",
+    "link": "https://www.inaturalist.org/observations/145577104"
+   },
+   {
+    "file": "photos/seed/ginkgo-biloba/form-250082860.jpg",
+    "role": "form",
+    "source": "iNaturalist",
+    "license": "CC BY",
+    "credit": "(c) Samuele Papeschi, some rights reserved (CC BY)",
+    "link": "https://www.inaturalist.org/observations/145577104"
+   },
+   {
+    "file": "photos/seed/ginkgo-biloba/form-commons-0.jpg",
+    "role": "form",
+    "source": "Wikimedia Commons",
+    "license": "CC BY 4.0",
+    "credit": "Trougnouf (Benoit Brummer), CC BY 4.0, via Wikimedia Commons",
+    "link": "https://commons.wikimedia.org/wiki/File:Ginkgo_biloba_in_Tournai_(DSCF8790).jpg"
+   }
+  ],
+  "acer-platanoides": [
+   {
+    "file": "photos/seed/acer-platanoides/leaf-202709744.jpg",
+    "role": "leaf",
+    "source": "iNaturalist",
+    "license": "CC BY",
+    "credit": "(c) Lyrae, some rights reserved (CC BY)",
+    "link": "https://www.inaturalist.org/observations/119889660"
+   },
+   {
+    "file": "photos/seed/acer-platanoides/leaf-738294123.jpg",
+    "role": "leaf",
+    "source": "iNaturalist",
+    "license": "CC0",
+    "credit": "no rights reserved",
+    "link": "https://www.inaturalist.org/observations/402188569"
+   },
+   {
+    "file": "photos/seed/acer-platanoides/bark-438744089.jpg",
+    "role": "bark",
+    "source": "iNaturalist",
+    "license": "CC0",
+    "credit": "no rights reserved",
+    "link": "https://www.inaturalist.org/observations/245836198"
+   },
+   {
+    "file": "photos/seed/acer-platanoides/flower-492013349.jpg",
+    "role": "flower",
+    "source": "iNaturalist",
+    "license": "CC0",
+    "credit": "no rights reserved",
+    "link": "https://www.inaturalist.org/observations/273573517"
+   },
+   {
+    "file": "photos/seed/acer-platanoides/form-451360062.jpg",
+    "role": "form",
+    "source": "iNaturalist",
+    "license": "CC0",
+    "credit": "no rights reserved",
+    "link": "https://www.inaturalist.org/observations/252170745"
+   }
+  ],
+  "acer-palmatum": [
+   {
+    "file": "photos/seed/acer-palmatum/leaf-74694047.jpg",
+    "role": "leaf",
+    "source": "iNaturalist",
+    "license": "CC BY",
+    "credit": "(c) Marco Mussita, some rights reserved (CC BY)",
+    "link": "https://www.inaturalist.org/observations/47096860"
+   },
+   {
+    "file": "photos/seed/acer-palmatum/leaf-520015701.jpg",
+    "role": "leaf",
+    "source": "iNaturalist",
+    "license": "CC BY",
+    "credit": "(c) Ashwin Srinivasan, some rights reserved (CC BY)",
+    "link": "https://www.inaturalist.org/observations/289135812"
+   },
+   {
+    "file": "photos/seed/acer-palmatum/seasonal-248194980.jpg",
+    "role": "seasonal",
+    "source": "iNaturalist",
+    "license": "CC BY",
+    "credit": "(c) Jenny Saito, some rights reserved (CC BY)",
+    "link": "https://www.inaturalist.org/observations/144590380"
+   },
+   {
+    "file": "photos/seed/acer-palmatum/form-455868647.jpg",
+    "role": "form",
+    "source": "iNaturalist",
+    "license": "CC BY",
+    "credit": "(c) Yoshihiro Tokue, some rights reserved (CC BY)",
+    "link": "https://www.inaturalist.org/observations/254498287"
+   },
+   {
+    "file": "photos/seed/acer-palmatum/bark-208719558.jpg",
+    "role": "bark",
+    "source": "iNaturalist",
+    "license": "CC0",
+    "credit": "no rights reserved",
+    "link": "https://www.inaturalist.org/observations/123219933"
+   }
+  ],
+  "acer-x-freemanii": [
+   {
+    "file": "photos/seed/acer-x-freemanii/leaf-399533933.jpg",
+    "role": "leaf",
+    "source": "iNaturalist",
+    "license": "CC BY",
+    "credit": "(c) Andrew Sebastian, some rights reserved (CC BY)",
+    "link": "https://www.inaturalist.org/observations/225354937"
+   },
+   {
+    "file": "photos/seed/acer-x-freemanii/leaf-763250442.jpg",
+    "role": "leaf",
+    "source": "iNaturalist",
+    "license": "CC BY",
+    "credit": "(c) Loïc Mathieu, some rights reserved (CC BY)",
+    "link": "https://www.inaturalist.org/observations/414590074"
+   },
+   {
+    "file": "photos/seed/acer-x-freemanii/seasonal-11067959.jpg",
+    "role": "seasonal",
+    "source": "iNaturalist",
+    "license": "CC0",
+    "credit": "no rights reserved",
+    "link": "https://www.inaturalist.org/observations/8330845"
+   },
+   {
+    "file": "photos/seed/acer-x-freemanii/bark-53732593.jpg",
+    "role": "bark",
+    "source": "iNaturalist",
+    "license": "CC BY",
+    "credit": "(c) Rob Foster, some rights reserved (CC BY)",
+    "link": "https://www.inaturalist.org/observations/34163535"
+   },
+   {
+    "file": "photos/seed/acer-x-freemanii/form-53732621.jpg",
+    "role": "form",
+    "source": "iNaturalist",
+    "license": "CC BY",
+    "credit": "(c) Rob Foster, some rights reserved (CC BY)",
+    "link": "https://www.inaturalist.org/observations/34163535"
+   }
+  ],
+  "prunus-serrulata": [
+   {
+    "file": "photos/seed/prunus-serrulata/leaf-752149403.jpg",
+    "role": "leaf",
+    "source": "iNaturalist",
+    "license": "CC BY",
+    "credit": "(c) Chris Ecroyd, some rights reserved (CC BY)",
+    "link": "https://www.inaturalist.org/observations/409109296"
+   },
+   {
+    "file": "photos/seed/prunus-serrulata/leaf-103094128.jpg",
+    "role": "leaf",
+    "source": "iNaturalist",
+    "license": "CC BY",
+    "credit": "(c) wild_wind, some rights reserved (CC BY)",
+    "link": "https://www.inaturalist.org/observations/64154239"
+   },
+   {
+    "file": "photos/seed/prunus-serrulata/flower-33645557.jpg",
+    "role": "flower",
+    "source": "iNaturalist",
+    "license": "CC0",
+    "credit": "no rights reserved",
+    "link": "https://www.inaturalist.org/observations/21726568"
+   },
+   {
+    "file": "photos/seed/prunus-serrulata/form-1197777.jpg",
+    "role": "form",
+    "source": "iNaturalist",
+    "license": "CC BY",
+    "credit": "(c) Jon Sullivan, some rights reserved (CC BY)",
+    "link": "http://naturewatch.org.nz/observations/416783"
+   },
+   {
+    "file": "photos/seed/prunus-serrulata/bark-commons-9.jpg",
+    "role": "bark",
+    "source": "Wikimedia Commons",
+    "license": "CC0",
+    "credit": "AnRo0002, CC0, via Wikimedia Commons",
+    "link": "https://commons.wikimedia.org/wiki/File:20140317Prunus_serrulata8.jpg"
+   },
+   {
+    "file": "photos/seed/prunus-serrulata/flower-commons-0.jpg",
+    "role": "flower",
+    "source": "Wikimedia Commons",
+    "license": "CC BY 2.5",
+    "credit": "Marie-Lan Nguyen, CC BY 2.5, via Wikimedia Commons",
+    "link": "https://commons.wikimedia.org/wiki/File:Prunus_serrulata_Kanzan_blossom_Jardin_des_Plantes_2013-04-21.jpg"
+   }
+  ],
+  "quercus-rubra": [
+   {
+    "file": "photos/seed/quercus-rubra/leaf-541270778.jpg",
+    "role": "leaf",
+    "source": "iNaturalist",
+    "license": "CC0",
+    "credit": "no rights reserved",
+    "link": "https://www.inaturalist.org/observations/300406630"
+   },
+   {
+    "file": "photos/seed/quercus-rubra/leaf-541270780.jpg",
+    "role": "leaf",
+    "source": "iNaturalist",
+    "license": "CC0",
+    "credit": "no rights reserved",
+    "link": "https://www.inaturalist.org/observations/300406630"
+   },
+   {
+    "file": "photos/seed/quercus-rubra/bark-301027058.jpg",
+    "role": "bark",
+    "source": "iNaturalist",
+    "license": "CC BY",
+    "credit": "(c) William J. Deml, some rights reserved (CC BY)",
+    "link": "https://www.inaturalist.org/observations/173354377"
+   },
+   {
+    "file": "photos/seed/quercus-rubra/form-101598116.jpg",
+    "role": "form",
+    "source": "iNaturalist",
+    "license": "CC BY",
+    "credit": "(c) Liam Steele, some rights reserved (CC BY)",
+    "link": "https://www.inaturalist.org/observations/63323655"
+   },
+   {
+    "file": "photos/seed/quercus-rubra/seasonal-11304773.jpg",
+    "role": "seasonal",
+    "source": "iNaturalist",
+    "license": "CC0",
+    "credit": "no rights reserved",
+    "link": "https://www.inaturalist.org/observations/8477937"
+   }
+  ],
+  "cercidiphyllum-japonicum": [
+   {
+    "file": "photos/seed/cercidiphyllum-japonicum/leaf-522099339.jpg",
+    "role": "leaf",
+    "source": "iNaturalist",
+    "license": "CC BY",
+    "credit": "(c) Patrick Hacker, some rights reserved (CC BY)",
+    "link": "https://www.inaturalist.org/observations/290243024"
+   },
+   {
+    "file": "photos/seed/cercidiphyllum-japonicum/leaf-140991337.jpg",
+    "role": "leaf",
+    "source": "iNaturalist",
+    "license": "CC BY",
+    "credit": "(c) Navin Sasikumar, some rights reserved (CC BY)",
+    "link": "https://www.inaturalist.org/observations/85669093"
+   },
+   {
+    "file": "photos/seed/cercidiphyllum-japonicum/seasonal-765218006.jpg",
+    "role": "seasonal",
+    "source": "iNaturalist",
+    "license": "CC BY",
+    "credit": "(c) unipon, some rights reserved (CC BY)",
+    "link": "https://www.inaturalist.org/observations/415557393"
+   },
+   {
+    "file": "photos/seed/cercidiphyllum-japonicum/form-375461077.jpg",
+    "role": "form",
+    "source": "iNaturalist",
+    "license": "CC0",
+    "credit": "no rights reserved",
+    "link": "https://www.inaturalist.org/observations/212461990"
+   },
+   {
+    "file": "photos/seed/cercidiphyllum-japonicum/bark-23158137.jpg",
+    "role": "bark",
+    "source": "iNaturalist",
+    "license": "CC BY",
+    "credit": "(c) Marco Mussita, some rights reserved (CC BY)",
+    "link": "https://www.inaturalist.org/observations/15439680"
+   }
+  ],
+  "cornus-kousa": [
+   {
+    "file": "photos/seed/cornus-kousa/flower-82238776.jpg",
+    "role": "flower",
+    "source": "iNaturalist",
+    "license": "CC BY",
+    "credit": "(c) Marco Mussita, some rights reserved (CC BY)",
+    "link": "https://www.inaturalist.org/observations/51750930"
+   },
+   {
+    "file": "photos/seed/cornus-kousa/flower-135164640.jpg",
+    "role": "flower",
+    "source": "iNaturalist",
+    "license": "CC BY",
+    "credit": "(c) Marco Mussita, some rights reserved (CC BY)",
+    "link": "https://www.inaturalist.org/observations/82359519"
+   },
+   {
+    "file": "photos/seed/cornus-kousa/fruit-97346064.jpg",
+    "role": "fruit",
+    "source": "iNaturalist",
+    "license": "CC0",
+    "credit": "no rights reserved",
+    "link": "https://www.inaturalist.org/observations/60868339"
+   },
+   {
+    "file": "photos/seed/cornus-kousa/leaf-149262909.jpg",
+    "role": "leaf",
+    "source": "iNaturalist",
+    "license": "CC BY",
+    "credit": "(c) Andrew Conboy, some rights reserved (CC BY)",
+    "link": "https://www.inaturalist.org/observations/90321300"
+   },
+   {
+    "file": "photos/seed/cornus-kousa/bark-74690845.jpg",
+    "role": "bark",
+    "source": "iNaturalist",
+    "license": "CC BY",
+    "credit": "(c) Marco Mussita, some rights reserved (CC BY)",
+    "link": "https://www.inaturalist.org/observations/47094547"
+   },
+   {
+    "file": "photos/seed/cornus-kousa/form-73119620.jpg",
+    "role": "form",
+    "source": "iNaturalist",
+    "license": "CC0",
+    "credit": "no rights reserved",
+    "link": "https://www.inaturalist.org/observations/46101343"
+   }
+  ],
+  "liquidambar-styraciflua": [
+   {
+    "file": "photos/seed/liquidambar-styraciflua/leaf-74204086.jpg",
+    "role": "leaf",
+    "source": "iNaturalist",
+    "license": "CC BY",
+    "credit": "(c) Steve Taylor, some rights reserved (CC BY)",
+    "link": "https://www.inaturalist.org/observations/46789279"
+   },
+   {
+    "file": "photos/seed/liquidambar-styraciflua/leaf-71676020.jpg",
+    "role": "leaf",
+    "source": "iNaturalist",
+    "license": "CC0",
+    "credit": "no rights reserved",
+    "link": "https://www.inaturalist.org/observations/45207540"
+   },
+   {
+    "file": "photos/seed/liquidambar-styraciflua/seasonal-101130166.jpg",
+    "role": "seasonal",
+    "source": "iNaturalist",
+    "license": "CC BY",
+    "credit": "(c) Sandy Wolkenberg, some rights reserved (CC BY)",
+    "link": "https://www.inaturalist.org/observations/63052689"
+   },
+   {
+    "file": "photos/seed/liquidambar-styraciflua/fruit-74204103.jpg",
+    "role": "fruit",
+    "source": "iNaturalist",
+    "license": "CC BY",
+    "credit": "(c) Steve Taylor, some rights reserved (CC BY)",
+    "link": "https://www.inaturalist.org/observations/46789279"
+   },
+   {
+    "file": "photos/seed/liquidambar-styraciflua/bark-58724405.jpg",
+    "role": "bark",
+    "source": "iNaturalist",
+    "license": "CC BY",
+    "credit": "(c) Sandy Wolkenberg, some rights reserved (CC BY)",
+    "link": "https://www.inaturalist.org/observations/37080564"
+   },
+   {
+    "file": "photos/seed/liquidambar-styraciflua/form-commons-1.jpg",
+    "role": "form",
+    "source": "Wikimedia Commons",
+    "license": "CC BY 3.0",
+    "credit": "Jean-Pol GRANDMONT, CC BY 3.0, via Wikimedia Commons",
+    "link": "https://commons.wikimedia.org/wiki/File:Liquidambar_styraciflua_-_La_Hulpe_(1).JPG"
+   }
+  ],
+  "platanus-x-hispanica": [
+   {
+    "file": "photos/seed/platanus-x-hispanica/bark-441954362.jpg",
+    "role": "bark",
+    "source": "iNaturalist",
+    "license": "CC0",
+    "credit": "no rights reserved",
+    "link": "https://www.inaturalist.org/observations/247449206"
+   },
+   {
+    "file": "photos/seed/platanus-x-hispanica/bark-267039395.jpg",
+    "role": "bark",
+    "source": "iNaturalist",
+    "license": "CC0",
+    "credit": "no rights reserved",
+    "link": "https://www.inaturalist.org/observations/154548411"
+   },
+   {
+    "file": "photos/seed/platanus-x-hispanica/leaf-55263068.jpg",
+    "role": "leaf",
+    "source": "iNaturalist",
+    "license": "CC0",
+    "credit": "no rights reserved",
+    "link": "https://www.inaturalist.org/observations/35061699"
+   },
+   {
+    "file": "photos/seed/platanus-x-hispanica/fruit-679234298.jpg",
+    "role": "fruit",
+    "source": "iNaturalist",
+    "license": "CC BY",
+    "credit": "(c) James Heal, some rights reserved (CC BY)",
+    "link": "https://www.inaturalist.org/observations/371749481"
+   },
+   {
+    "file": "photos/seed/platanus-x-hispanica/form-5499891.jpg",
+    "role": "form",
+    "source": "iNaturalist",
+    "license": "CC0",
+    "credit": "no rights reserved",
+    "link": "http://www.inaturalist.org/observations/4541515"
+   }
+  ],
+  "ilex-aquifolium": [
+   {
+    "file": "photos/seed/ilex-aquifolium/leaf-195107997.jpg",
+    "role": "leaf",
+    "source": "iNaturalist",
+    "license": "CC0",
+    "credit": "no rights reserved",
+    "link": "https://www.inaturalist.org/observations/115605588"
+   },
+   {
+    "file": "photos/seed/ilex-aquifolium/leaf-742057429.jpg",
+    "role": "leaf",
+    "source": "iNaturalist",
+    "license": "CC0",
+    "credit": "no rights reserved",
+    "link": "https://www.inaturalist.org/observations/404106258"
+   },
+   {
+    "file": "photos/seed/ilex-aquifolium/fruit-249707460.jpg",
+    "role": "fruit",
+    "source": "iNaturalist",
+    "license": "CC BY",
+    "credit": "(c) Noah How, some rights reserved (CC BY)",
+    "link": "https://www.inaturalist.org/observations/145384204"
+   },
+   {
+    "file": "photos/seed/ilex-aquifolium/form-177396797.jpg",
+    "role": "form",
+    "source": "iNaturalist",
+    "license": "CC0",
+    "credit": "no rights reserved",
+    "link": "https://www.inaturalist.org/observations/105695127"
+   }
+  ]
+ }
+}

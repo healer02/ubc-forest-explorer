@@ -1,0 +1,1421 @@
+{
+ "schema": 1,
+ "status_legend": {
+  "needs_check": "AI-drafted, not yet verified",
+  "verified": "checked by the author",
+  "blank": "left empty on purpose (no confident fact)"
+ },
+ "native_definition": "Native = native to coastal BC (default; confirm)",
+ "species": [
+  {
+   "id": "thuja-plicata",
+   "common": "western redcedar",
+   "botanical": "Thuja plicata",
+   "group": "conifer",
+   "native": {
+    "value": true,
+    "text": "Native to coastal BC",
+    "status": "needs_check"
+   },
+   "id_features": [
+    {
+     "type": "leaf",
+     "text": "Flat, fern-like sprays of tiny overlapping scale leaves; the undersides show whitish bow-tie or butterfly-shaped markings.",
+     "status": "needs_check"
+    },
+    {
+     "type": "bark",
+     "text": "Reddish-brown to grey bark that is fibrous and strips off in long vertical ribbons.",
+     "status": "needs_check"
+    },
+    {
+     "type": "form",
+     "text": "Branches droop then curve up at the tips like a J; the leader often droops slightly; the trunk base is flared and buttressed.",
+     "status": "needs_check"
+    }
+   ],
+   "lookalikes": [
+    {
+     "name": "yellow-cedar",
+     "text": "Yellow-cedar sprays hang limp like a wet dog, feel prickly when stroked backward, and lack the white bow-tie marks underneath.",
+     "status": "needs_check"
+    },
+    {
+     "name": "eastern white cedar (Thuja occidentalis)",
+     "text": "Usually a hedge or small columnar tree; foliage undersides are yellow-green with little or no white marking.",
+     "status": "needs_check"
+    }
+   ],
+   "design": {
+    "text": "A good shade-tolerant screen and character tree in moist sites; a poor choice for hot, paved, drought-prone spots where it struggles.",
+    "status": "needs_check"
+   },
+   "ecology": {
+    "text": "Its wood contains natural fungicidal compounds (thujaplicins) that make it highly rot-resistant.",
+    "status": "needs_check"
+   },
+   "controversy": {
+    "text": "Summer droughts and heat (e.g., the 2021 heat dome) have caused visible dieback and dead tops in redcedar across the region. Should we keep planting it in urban sites as the climate warms?",
+    "status": "needs_check"
+   },
+   "tour_point": {
+    "text": "BC's official tree and by far the most common tree on campus (about 1 in 8 identified trees, above the 10% single-species guideline often used for urban forests). A cultural keystone for Coast Salish peoples, including the Musqueam, on whose land UBC stands: bark, wood and roots for canoes, houses, clothing and baskets.",
+    "status": "needs_check"
+   }
+  },
+  {
+   "id": "pseudotsuga-menziesii",
+   "common": "Douglas-fir",
+   "botanical": "Pseudotsuga menziesii",
+   "group": "conifer",
+   "native": {
+    "value": true,
+    "text": "Native to coastal BC",
+    "status": "needs_check"
+   },
+   "id_features": [
+    {
+     "type": "fruit",
+     "text": "Hanging cones with three-pointed bracts sticking out between the scales, often described as the hind legs and tail of a mouse hiding in the cone.",
+     "status": "needs_check"
+    },
+    {
+     "type": "leaf",
+     "text": "Soft, flat needles 2-3 cm long arranged all around the twig (bottle-brush), with sharp-pointed, shiny reddish-brown buds.",
+     "status": "needs_check"
+    },
+    {
+     "type": "bark",
+     "text": "Mature bark is very thick, corky and deeply furrowed; young bark is smooth and grey with resin blisters.",
+     "status": "needs_check"
+    }
+   ],
+   "lookalikes": [
+    {
+     "name": "grand fir",
+     "text": "Grand fir needles lie flat in two rows with notched tips and white stripes underneath; its cones stand upright and fall apart on the tree, so you rarely find whole cones on the ground.",
+     "status": "needs_check"
+    },
+    {
+     "name": "western hemlock",
+     "text": "Hemlock needles are short and of uneven length, its cones are tiny (about 2 cm), and the very top of the tree nods over.",
+     "status": "needs_check"
+    }
+   ],
+   "design": {
+    "text": "A forest-grown tree left standing alone after its neighbours are cleared is more exposed to wind than it grew up with; retain groves rather than single trees where possible.",
+    "status": "needs_check"
+   },
+   "ecology": {
+    "text": "Thick bark lets mature trees survive low-intensity fire; it is a pioneer that regenerates well after disturbance in the drier coastal forests.",
+    "status": "needs_check"
+   },
+   "controversy": {
+    "text": "How much of BC's remaining coastal old-growth should be logged and how much protected is a long-running debate, highlighted by the 2020 Old Growth Strategic Review and the Fairy Creek blockades on Vancouver Island.",
+    "status": "needs_check"
+   },
+   "tour_point": {
+    "text": "Not a true fir, hence the hyphen: the genus name Pseudotsuga means 'false hemlock'. The species name honours Archibald Menzies; the common name honours David Douglas.",
+    "status": "needs_check"
+   }
+  },
+  {
+   "id": "tsuga-heterophylla",
+   "common": "western hemlock",
+   "botanical": "Tsuga heterophylla",
+   "group": "conifer",
+   "native": {
+    "value": true,
+    "text": "Native to coastal BC",
+    "status": "needs_check"
+   },
+   "id_features": [
+    {
+     "type": "form",
+     "text": "The leader (very top) droops or nods over, and branch tips are soft and drooping, giving a feathery look.",
+     "status": "needs_check"
+    },
+    {
+     "type": "leaf",
+     "text": "Short, flat needles of mixed lengths (hence 'heterophylla', different leaves) with two whitish bands underneath, in flattened sprays.",
+     "status": "needs_check"
+    },
+    {
+     "type": "fruit",
+     "text": "Small cones about 2-3 cm long hanging from the branch tips.",
+     "status": "needs_check"
+    }
+   ],
+   "lookalikes": [
+    {
+     "name": "Douglas-fir",
+     "text": "Douglas-fir has longer, even needles all around the twig, pointed buds, an upright leader and larger cones with three-pointed bracts.",
+     "status": "needs_check"
+    },
+    {
+     "name": "western redcedar",
+     "text": "Redcedar also has a slightly drooping leader, but its foliage is scale leaves, not needles.",
+     "status": "needs_check"
+    }
+   ],
+   "design": {
+    "text": "Thrives in shade beneath other conifers; a poor choice for hot, dry, exposed sites.",
+    "status": "needs_check"
+   },
+   "ecology": {
+    "text": "Very shade tolerant; seedlings often establish on rotting logs and stumps (nurse logs).",
+    "status": "needs_check"
+   },
+   "controversy": {
+    "text": "",
+    "status": "blank"
+   },
+   "tour_point": {
+    "text": "Look for the nodding top: a quick way to pick hemlock out of a skyline of conifers. Washington's state tree.",
+    "status": "needs_check"
+   }
+  },
+  {
+   "id": "abies-grandis",
+   "common": "grand fir",
+   "botanical": "Abies grandis",
+   "group": "conifer",
+   "native": {
+    "value": true,
+    "text": "Native to coastal BC",
+    "status": "needs_check"
+   },
+   "id_features": [
+    {
+     "type": "leaf",
+     "text": "Glossy, flat needles of two lengths spread flat in two rows like a comb, with notched tips and two white bands underneath; citrus scent when crushed.",
+     "status": "needs_check"
+    },
+    {
+     "type": "fruit",
+     "text": "Cones stand upright near the top of the tree and fall apart there; you find loose scales, not whole cones, on the ground.",
+     "status": "needs_check"
+    },
+    {
+     "type": "bark",
+     "text": "Young bark is smooth and grey with raised resin blisters.",
+     "status": "needs_check"
+    }
+   ],
+   "lookalikes": [
+    {
+     "name": "Douglas-fir",
+     "text": "Douglas-fir needles go all around the twig, its buds are sharp-pointed, and its cones hang down with three-pointed bracts.",
+     "status": "needs_check"
+    }
+   ],
+   "design": {
+    "text": "",
+    "status": "blank"
+   },
+   "ecology": {
+    "text": "As a true fir (Abies) it is attacked by the introduced balsam woolly adelgid in the Pacific Northwest.",
+    "status": "needs_check"
+   },
+   "controversy": {
+    "text": "",
+    "status": "blank"
+   },
+   "tour_point": {
+    "text": "Pair it with Douglas-fir: same 'fir' name, different genus. Crush a needle and smell the citrus.",
+    "status": "needs_check"
+   }
+  },
+  {
+   "id": "callitropsis-nootkatensis",
+   "common": "yellow-cedar",
+   "botanical": "Callitropsis nootkatensis",
+   "group": "conifer",
+   "native": {
+    "value": true,
+    "text": "Native to coastal BC",
+    "status": "needs_check"
+   },
+   "id_features": [
+    {
+     "type": "leaf",
+     "text": "Scale leaves in limp, hanging sprays that feel prickly when stroked backward; no white markings underneath.",
+     "status": "needs_check"
+    },
+    {
+     "type": "fruit",
+     "text": "Small round cones about 1 cm across with 4-6 scales, each with a pointed knob; they take two years to mature.",
+     "status": "needs_check"
+    },
+    {
+     "type": "form",
+     "text": "Branchlets hang vertically, giving a shaggy, weeping look; the leader droops.",
+     "status": "needs_check"
+    }
+   ],
+   "lookalikes": [
+    {
+     "name": "western redcedar",
+     "text": "Redcedar sprays are flatter and smooth to the touch, show white bow-tie marks underneath, and have small egg-shaped cones with overlapping scales.",
+     "status": "needs_check"
+    }
+   ],
+   "design": {
+    "text": "The weeping form ('Pendula') is a popular ornamental; the inventory lists several 'weeping Alaskan yellow-cedar' on campus.",
+    "status": "needs_check"
+   },
+   "ecology": {
+    "text": "Yellow-cedar decline: widespread dieback along the coast of Alaska and northern BC has been linked to reduced snowpack, which leaves shallow roots exposed to freezing.",
+    "status": "needs_check"
+   },
+   "controversy": {
+    "text": "Its scientific name keeps changing (Chamaecyparis, Xanthocyparis, Callitropsis, Cupressus nootkatensis) and botanists still disagree on which genus is right.",
+    "status": "needs_check"
+   },
+   "tour_point": {
+    "text": "Hands-on test: stroke the foliage backward. Redcedar feels smooth, yellow-cedar feels prickly. Then ask the group which genus name they would put on the sign.",
+    "status": "needs_check"
+   }
+  },
+  {
+   "id": "acer-circinatum",
+   "common": "vine maple",
+   "botanical": "Acer circinatum",
+   "group": "broadleaf",
+   "native": {
+    "value": true,
+    "text": "Native to coastal BC",
+    "status": "needs_check"
+   },
+   "id_features": [
+    {
+     "type": "leaf",
+     "text": "Nearly round leaves with 7-9 shallow, toothed lobes, arranged opposite.",
+     "status": "needs_check"
+    },
+    {
+     "type": "fruit",
+     "text": "Paired winged seeds (samaras) spread almost straight out to each side, often red-tinged in summer.",
+     "status": "needs_check"
+    },
+    {
+     "type": "form",
+     "text": "Multi-stemmed small tree or large shrub with crooked, sprawling stems that can root where they touch the ground.",
+     "status": "needs_check"
+    }
+   ],
+   "lookalikes": [
+    {
+     "name": "Japanese maple",
+     "text": "Japanese maple leaves are deeply cut into 5-9 narrow, pointed lobes; vine maple leaves are rounder with shallow lobes.",
+     "status": "needs_check"
+    }
+   ],
+   "design": {
+    "text": "An excellent native small tree for shady or tight spaces; fall colour is orange-red in sun and yellow in shade.",
+    "status": "needs_check"
+   },
+   "ecology": {
+    "text": "An understory specialist: in deep shade it grows sprawling and vine-like; in sun it is more compact.",
+    "status": "needs_check"
+   },
+   "controversy": {
+    "text": "",
+    "status": "blank"
+   },
+   "tour_point": {
+    "text": "The most-planted native broadleaf on campus (about 415 trees). 'Circinatum' refers to the rounded leaves. Ask: why use this instead of a Japanese maple?",
+    "status": "needs_check"
+   }
+  },
+  {
+   "id": "acer-macrophyllum",
+   "common": "bigleaf maple",
+   "botanical": "Acer macrophyllum",
+   "group": "broadleaf",
+   "native": {
+    "value": true,
+    "text": "Native to coastal BC",
+    "status": "needs_check"
+   },
+   "id_features": [
+    {
+     "type": "leaf",
+     "text": "Very large opposite leaves, often 15-30 cm across, with 5 deep lobes.",
+     "status": "needs_check"
+    },
+    {
+     "type": "fruit",
+     "text": "Paired samaras with hairy seed cases, joined in a V and hanging in clusters.",
+     "status": "needs_check"
+    },
+    {
+     "type": "bark",
+     "text": "Grey-brown, furrowed bark that is often thickly covered with mosses and licorice ferns.",
+     "status": "needs_check"
+    }
+   ],
+   "lookalikes": [
+    {
+     "name": "Norway maple",
+     "text": "Norway maple leaves are smaller, the broken leaf stalk oozes milky sap, and its samaras spread almost flat.",
+     "status": "needs_check"
+    },
+    {
+     "name": "London plane",
+     "text": "London plane leaves are alternate (not opposite) and its bark flakes in camouflage patches.",
+     "status": "needs_check"
+    }
+   ],
+   "design": {
+    "text": "A large, fast-growing shade tree best suited to parks and natural areas where it has room.",
+    "status": "needs_check"
+   },
+   "ecology": {
+    "text": "Its bark carries heavy loads of mosses and ferns, and the tree can grow roots from its branches into these canopy soil mats.",
+    "status": "needs_check"
+   },
+   "controversy": {
+    "text": "Bigleaf maple dieback has been reported in the Pacific Northwest over the past decade, with drought and heat suspected as drivers.",
+    "status": "needs_check"
+   },
+   "tour_point": {
+    "text": "Often said to have the largest leaves of any maple. Its sap can be tapped for syrup.",
+    "status": "needs_check"
+   }
+  },
+  {
+   "id": "cornus-nuttallii",
+   "common": "Pacific dogwood",
+   "botanical": "Cornus nuttallii",
+   "group": "broadleaf",
+   "native": {
+    "value": true,
+    "text": "Native to coastal BC",
+    "status": "needs_check"
+   },
+   "id_features": [
+    {
+     "type": "flower",
+     "text": "In spring, 4-7 (often 6) large white bracts surround a button of tiny greenish flowers; it sometimes blooms again in late summer.",
+     "status": "needs_check"
+    },
+    {
+     "type": "fruit",
+     "text": "Clusters of shiny red-orange berry-like fruits in fall.",
+     "status": "needs_check"
+    },
+    {
+     "type": "leaf",
+     "text": "Opposite oval leaves with veins that curve toward the tip; tear a leaf gently and stretchy threads hold the halves together.",
+     "status": "needs_check"
+    }
+   ],
+   "lookalikes": [
+    {
+     "name": "kousa dogwood",
+     "text": "Kousa has 4 pointed bracts, blooms about a month later after its leaves are out, and has a single raspberry-like fruit on a long stalk.",
+     "status": "needs_check"
+    },
+    {
+     "name": "eastern flowering dogwood (Cornus florida)",
+     "text": "Usually 4 bracts with notched tips, and a smaller tree.",
+     "status": "needs_check"
+    },
+    {
+     "name": "'Eddie's White Wonder'",
+     "text": "A hybrid of Pacific and eastern flowering dogwood; intermediate features, so check the label or bract count.",
+     "status": "needs_check"
+    }
+   ],
+   "design": {
+    "text": "Hard to establish in urban sites; prefers well-drained soil in partial shade beneath taller trees.",
+    "status": "needs_check"
+   },
+   "ecology": {
+    "text": "Dogwood anthracnose, a fungal disease (Discula destructiva) first noticed in the late 1970s, has killed many Pacific dogwoods.",
+    "status": "needs_check"
+   },
+   "controversy": {
+    "text": "Should campus keep planting the native dogwood despite anthracnose, or switch to disease-resistant kousa and hybrids?",
+    "status": "needs_check"
+   },
+   "tour_point": {
+    "text": "BC's floral emblem. What look like petals are bracts: count them and compare with a kousa dogwood nearby.",
+    "status": "needs_check"
+   }
+  },
+  {
+   "id": "alnus-rubra",
+   "common": "red alder",
+   "botanical": "Alnus rubra",
+   "group": "broadleaf",
+   "native": {
+    "value": true,
+    "text": "Native to coastal BC",
+    "status": "needs_check"
+   },
+   "id_features": [
+    {
+     "type": "leaf",
+     "text": "Oval, alternate leaves with coarse double teeth; the leaf edge rolls under slightly.",
+     "status": "needs_check"
+    },
+    {
+     "type": "bark",
+     "text": "Smooth, light grey bark often blotched white with lichens; scraped inner bark turns orange-red.",
+     "status": "needs_check"
+    },
+    {
+     "type": "fruit",
+     "text": "Small woody cone-like catkins (about 2 cm) that stay on the tree through winter; long male catkins in early spring.",
+     "status": "needs_check"
+    }
+   ],
+   "lookalikes": [
+    {
+     "name": "paper birch",
+     "text": "Paper birch has white bark that peels in papery strips, and its leaf edges do not roll under.",
+     "status": "needs_check"
+    }
+   ],
+   "design": {
+    "text": "A fast-growing, short-lived pioneer good for quick cover and restoration; its weak wood makes it a poor long-term street tree.",
+    "status": "needs_check"
+   },
+   "ecology": {
+    "text": "Fixes nitrogen through root nodules with Frankia bacteria, enriching soils after disturbance.",
+    "status": "needs_check"
+   },
+   "controversy": {
+    "text": "Long treated as a weed in conifer plantations and cut or sprayed with herbicide; now increasingly valued for soil building and as a hardwood.",
+    "status": "needs_check"
+   },
+   "tour_point": {
+    "text": "Scratch test: the inner bark turns orange, the 'red' in red alder. Its wood is a traditional choice for smoking salmon.",
+    "status": "needs_check"
+   }
+  },
+  {
+   "id": "arbutus-menziesii",
+   "common": "arbutus (Pacific madrone)",
+   "botanical": "Arbutus menziesii",
+   "group": "broadleaf",
+   "native": {
+    "value": true,
+    "text": "Native to coastal BC",
+    "status": "needs_check"
+   },
+   "id_features": [
+    {
+     "type": "bark",
+     "text": "Smooth orange-red to cinnamon bark that peels in thin papery curls in summer, revealing greenish-yellow bark beneath.",
+     "status": "needs_check"
+    },
+    {
+     "type": "leaf",
+     "text": "Thick, glossy, evergreen oval leaves, dark green above and pale beneath.",
+     "status": "needs_check"
+    },
+    {
+     "type": "flower",
+     "text": "Clusters of small white urn-shaped flowers in spring, followed by orange-red berries in fall.",
+     "status": "needs_check"
+    }
+   ],
+   "lookalikes": [
+    {
+     "name": "strawberry tree (Arbutus unedo)",
+     "text": "Smaller and shrubbier, with smaller leaves with toothed edges; it flowers in autumn while last year's fruit ripens.",
+     "status": "needs_check"
+    }
+   ],
+   "design": {
+    "text": "Notoriously hard to transplant; needs sharp drainage and dislikes summer irrigation and root disturbance.",
+    "status": "needs_check"
+   },
+   "ecology": {
+    "text": "A tree of dry, rocky coastal sites in the Strait of Georgia region.",
+    "status": "needs_check"
+   },
+   "controversy": {
+    "text": "",
+    "status": "blank"
+   },
+   "tour_point": {
+    "text": "Often described as Canada's only native broadleaf evergreen tree. Invite people to touch the cool, smooth bark.",
+    "status": "needs_check"
+   }
+  },
+  {
+   "id": "quercus-garryana",
+   "common": "Garry oak",
+   "botanical": "Quercus garryana",
+   "group": "broadleaf",
+   "native": {
+    "value": true,
+    "text": "Native to BC (mainly SE Vancouver Island and the Gulf Islands)",
+    "status": "needs_check"
+   },
+   "id_features": [
+    {
+     "type": "leaf",
+     "text": "Leathery, glossy dark green leaves with 5-7 deep, rounded lobes, paler beneath.",
+     "status": "needs_check"
+    },
+    {
+     "type": "bark",
+     "text": "Thick, grey, deeply furrowed bark.",
+     "status": "needs_check"
+    },
+    {
+     "type": "form",
+     "text": "On open sites, a broad spreading crown with gnarled, twisting branches.",
+     "status": "needs_check"
+    }
+   ],
+   "lookalikes": [
+    {
+     "name": "English oak",
+     "text": "English oak leaves have very short stalks and small ear-like lobes at the base, and its acorns hang on long stalks; Garry oak acorns sit almost directly on the twig.",
+     "status": "needs_check"
+    }
+   ],
+   "design": {
+    "text": "Slow-growing; summer watering of established trees is often discouraged because it can promote root disease.",
+    "status": "needs_check"
+   },
+   "ecology": {
+    "text": "Garry oak ecosystems are among the most endangered in Canada; only a small fraction remains in near-natural condition.",
+    "status": "needs_check"
+   },
+   "controversy": {
+    "text": "Native where? Garry oak is BC's only native oak, but its natural range is mostly SE Vancouver Island and the Gulf Islands. On Point Grey it is planted. Does that count as a native planting?",
+    "status": "needs_check"
+   },
+   "tour_point": {
+    "text": "BC's only native oak. South Commons holds 17 of the 21 on campus.",
+    "status": "needs_check"
+   }
+  },
+  {
+   "id": "pinus-nigra",
+   "common": "Austrian (black) pine",
+   "botanical": "Pinus nigra",
+   "group": "conifer",
+   "native": {
+    "value": false,
+    "text": "Non-native: southern Europe, Turkey and North Africa",
+    "status": "needs_check"
+   },
+   "id_features": [
+    {
+     "type": "leaf",
+     "text": "Stiff, dark green needles 8-15 cm long, in bundles of 2.",
+     "status": "needs_check"
+    },
+    {
+     "type": "bark",
+     "text": "Dark grey-brown bark broken into deep fissures and flat, scaly plates.",
+     "status": "needs_check"
+    },
+    {
+     "type": "form",
+     "text": "Dense, dark, broad crown; older trees often become flat-topped.",
+     "status": "needs_check"
+    }
+   ],
+   "lookalikes": [
+    {
+     "name": "Scots pine",
+     "text": "Scots pine has shorter (3-7 cm), twisted, blue-green needles and orange, flaky bark on the upper trunk.",
+     "status": "needs_check"
+    },
+    {
+     "name": "shore (lodgepole) pine",
+     "text": "Shore pine has short (3-7 cm), twisted, yellow-green needles and small cones that stay on the branches for years.",
+     "status": "needs_check"
+    }
+   ],
+   "design": {
+    "text": "Tolerant of wind, salt and urban stress, which is why it was widely planted for shelter.",
+    "status": "needs_check"
+   },
+   "ecology": {
+    "text": "Prone to Diplodia tip blight, a common fungal disease of planted Austrian pines.",
+    "status": "needs_check"
+   },
+   "controversy": {
+    "text": "",
+    "status": "blank"
+   },
+   "tour_point": {
+    "text": "Count needles per bundle: 2 (Austrian, Scots, shore pine), 3 (ponderosa), 5 (western white pine). The most common non-native conifer on campus.",
+    "status": "needs_check"
+   }
+  },
+  {
+   "id": "cedrus-deodara",
+   "common": "deodar cedar",
+   "botanical": "Cedrus deodara",
+   "group": "conifer",
+   "native": {
+    "value": false,
+    "text": "Non-native: western Himalaya",
+    "status": "needs_check"
+   },
+   "id_features": [
+    {
+     "type": "leaf",
+     "text": "Needles 2.5-5 cm long in dense tufts on short spur shoots, single on new long shoots.",
+     "status": "needs_check"
+    },
+    {
+     "type": "form",
+     "text": "Branch tips and the leader droop gracefully; broadly conical crown.",
+     "status": "needs_check"
+    },
+    {
+     "type": "fruit",
+     "text": "Barrel-shaped cones sit upright on the branches and break apart on the tree.",
+     "status": "needs_check"
+    }
+   ],
+   "lookalikes": [
+    {
+     "name": "Atlas cedar",
+     "text": "Atlas cedar has shorter needles (under 2.5 cm), often blue-grey, and stiffer, upswept branches.",
+     "status": "needs_check"
+    },
+    {
+     "name": "larch",
+     "text": "Larch also has needles in tufts, but they are soft, deciduous (turn gold and drop in fall), and its cones are small.",
+     "status": "needs_check"
+    }
+   ],
+   "design": {
+    "text": "A large specimen tree for open lawns; its sweeping lower branches need room.",
+    "status": "needs_check"
+   },
+   "ecology": {
+    "text": "The national tree of Pakistan.",
+    "status": "needs_check"
+   },
+   "controversy": {
+    "text": "Which trees deserve the name 'cedar'? Only Cedrus is a true cedar; western redcedar, yellow-cedar and incense-cedar are in the cypress family, which is why careful usage writes their names as one word or with a hyphen.",
+    "status": "needs_check"
+   },
+   "tour_point": {
+    "text": "Meet a true cedar, then walk to a western redcedar and compare. 'Deodar' comes from Sanskrit 'devadaru', timber of the gods.",
+    "status": "needs_check"
+   }
+  },
+  {
+   "id": "sequoiadendron-giganteum",
+   "common": "giant sequoia",
+   "botanical": "Sequoiadendron giganteum",
+   "group": "conifer",
+   "native": {
+    "value": false,
+    "text": "Non-native: Sierra Nevada, California",
+    "status": "needs_check"
+   },
+   "id_features": [
+    {
+     "type": "leaf",
+     "text": "Awl-shaped, scale-like needles that clasp the twig and overlap all around it, making shoots look like ropes.",
+     "status": "needs_check"
+    },
+    {
+     "type": "bark",
+     "text": "Very thick, soft, spongy, fibrous red-brown bark: you can press into it without hurting your hand.",
+     "status": "needs_check"
+    },
+    {
+     "type": "form",
+     "text": "Massive columnar trunk with strong taper and a dense, conical crown; branch tips turn upward.",
+     "status": "needs_check"
+    }
+   ],
+   "lookalikes": [
+    {
+     "name": "coast redwood",
+     "text": "Coast redwood has flat needles in two rows on most shoots (like a yew), with white bands beneath, and smaller cones (about 2 cm vs 5-7 cm).",
+     "status": "needs_check"
+    },
+    {
+     "name": "Japanese cedar (Cryptomeria)",
+     "text": "Cryptomeria also has awl-shaped needles, but they curve forward, and its bark is thinner and stringy.",
+     "status": "needs_check"
+    }
+   ],
+   "design": {
+    "text": "A dramatic specimen for large open spaces; its eventual size makes it unsuitable close to buildings or utilities.",
+    "status": "needs_check"
+   },
+   "ecology": {
+    "text": "Fire-adapted: thick bark protects the trunk and heat helps open the cones to release seed.",
+    "status": "needs_check"
+   },
+   "controversy": {
+    "text": "Severe wildfires in 2020-2021 killed a substantial share of the world's large giant sequoias. Should we plant them well outside their native range as a kind of insurance?",
+    "status": "needs_check"
+   },
+   "tour_point": {
+    "text": "The largest tree on Earth by volume. Press the spongy bark. Campus's biggest recorded is near the First Nations Garden.",
+    "status": "needs_check"
+   }
+  },
+  {
+   "id": "metasequoia-glyptostroboides",
+   "common": "dawn redwood",
+   "botanical": "Metasequoia glyptostroboides",
+   "group": "conifer",
+   "native": {
+    "value": false,
+    "text": "Non-native: central China",
+    "status": "needs_check"
+   },
+   "id_features": [
+    {
+     "type": "leaf",
+     "text": "Soft, flat, feathery needles arranged opposite each other on short shoots that drop with the needles.",
+     "status": "needs_check"
+    },
+    {
+     "type": "seasonal",
+     "text": "A deciduous conifer: needles turn russet-orange in fall and drop; the tree is bare in winter.",
+     "status": "needs_check"
+    },
+    {
+     "type": "bark",
+     "text": "Reddish, fibrous bark on a fluted, buttressed trunk, with 'armpit' hollows beneath the branches.",
+     "status": "needs_check"
+    }
+   ],
+   "lookalikes": [
+    {
+     "name": "bald cypress (Taxodium distichum)",
+     "text": "Bald cypress needles and branchlets are alternate, not opposite.",
+     "status": "needs_check"
+    },
+    {
+     "name": "coast redwood",
+     "text": "Coast redwood is evergreen and its needles are stiffer and alternate.",
+     "status": "needs_check"
+    }
+   ],
+   "design": {
+    "text": "Fast-growing and tolerant of wet soils; a striking avenue or pond-edge tree that needs space.",
+    "status": "needs_check"
+   },
+   "ecology": {
+    "text": "Described from fossils in 1941 before living trees were found in China in the 1940s; seed sent out in 1948 spread it to gardens worldwide.",
+    "status": "needs_check"
+   },
+   "controversy": {
+    "text": "Listed as Endangered in the wild, yet planted widely around the world. Does abundance in gardens help conservation of the wild populations?",
+    "status": "needs_check"
+   },
+   "tour_point": {
+    "text": "A 'living fossil' and a conifer that drops its needles every fall. Point to the armpits under the branches.",
+    "status": "needs_check"
+   }
+  },
+  {
+   "id": "ginkgo-biloba",
+   "common": "ginkgo",
+   "botanical": "Ginkgo biloba",
+   "group": "ginkgo",
+   "native": {
+    "value": false,
+    "text": "Non-native: China",
+    "status": "needs_check"
+   },
+   "id_features": [
+    {
+     "type": "leaf",
+     "text": "Fan-shaped leaves with fine parallel veins that fork, often with a notch in the middle splitting the fan into two lobes.",
+     "status": "needs_check"
+    },
+    {
+     "type": "form",
+     "text": "Leaves grow in clusters on short, knobby spur shoots along the branches.",
+     "status": "needs_check"
+    },
+    {
+     "type": "seasonal",
+     "text": "Leaves turn bright butter-yellow in fall and often drop almost all at once.",
+     "status": "needs_check"
+    }
+   ],
+   "lookalikes": [],
+   "design": {
+    "text": "A very tough urban street tree, tolerant of pollution and compaction. Male trees are usually planted to avoid the female trees' foul-smelling seeds.",
+    "status": "needs_check"
+   },
+   "ecology": {
+    "text": "The only living species of an ancient lineage of seed plants; several ginkgos survived the Hiroshima atomic bombing near the hypocentre.",
+    "status": "needs_check"
+   },
+   "controversy": {
+    "text": "Planting only male trees avoids the smelly seeds but adds pollen; some critics call this 'botanical sexism', while others dispute how much it matters for allergies.",
+    "status": "needs_check"
+   },
+   "tour_point": {
+    "text": "Neither a conifer nor a flowering tree. The campus inventory even mislabels it 'Angiosperm' on several records, which makes a nice data-quality story.",
+    "status": "needs_check"
+   }
+  },
+  {
+   "id": "acer-platanoides",
+   "common": "Norway maple",
+   "botanical": "Acer platanoides",
+   "group": "broadleaf",
+   "native": {
+    "value": false,
+    "text": "Non-native: Europe and western Asia",
+    "status": "needs_check"
+   },
+   "id_features": [
+    {
+     "type": "leaf",
+     "text": "Broad leaves with 5 lobes and a few long pointed teeth; snap the leaf stalk and it oozes milky sap.",
+     "status": "needs_check"
+    },
+    {
+     "type": "fruit",
+     "text": "Paired samaras spread almost flat, like a straight line.",
+     "status": "needs_check"
+    },
+    {
+     "type": "flower",
+     "text": "Bright yellow-green flower clusters appear before the leaves in early spring.",
+     "status": "needs_check"
+    }
+   ],
+   "lookalikes": [
+    {
+     "name": "sugar maple",
+     "text": "Sugar maple sap is clear and its samaras form a U shape.",
+     "status": "needs_check"
+    },
+    {
+     "name": "sycamore maple",
+     "text": "Sycamore maple leaves are thicker with coarse rounded teeth, the sap is clear, and samaras meet at about a right angle.",
+     "status": "needs_check"
+    },
+    {
+     "name": "bigleaf maple",
+     "text": "Bigleaf maple leaves are much larger, often wider than 15 cm.",
+     "status": "needs_check"
+    }
+   ],
+   "design": {
+    "text": "A very tough street tree, but it casts dense shade and has shallow roots that suppress grass. Purple cultivars such as 'Royal Red' are on campus.",
+    "status": "needs_check"
+   },
+   "ecology": {
+    "text": "In eastern North American forests its dense shade and abundant seedlings can crowd out native understory plants.",
+    "status": "needs_check"
+   },
+   "controversy": {
+    "text": "Listed as invasive and banned from sale in some US states, yet still a common street tree. Should campus stop planting it?",
+    "status": "needs_check"
+   },
+   "tour_point": {
+    "text": "Snap a leaf stalk: milky sap. The most common non-native broadleaf on campus (about 406 trees).",
+    "status": "needs_check"
+   }
+  },
+  {
+   "id": "acer-palmatum",
+   "common": "Japanese maple",
+   "botanical": "Acer palmatum",
+   "group": "broadleaf",
+   "native": {
+    "value": false,
+    "text": "Non-native: East Asia (Japan, Korea, China)",
+    "status": "needs_check"
+   },
+   "id_features": [
+    {
+     "type": "leaf",
+     "text": "Small, deeply cut palm-shaped leaves with 5-9 pointed, toothed lobes, arranged opposite.",
+     "status": "needs_check"
+    },
+    {
+     "type": "form",
+     "text": "Low, layered crown with graceful horizontal branches, often multi-stemmed.",
+     "status": "needs_check"
+    },
+    {
+     "type": "seasonal",
+     "text": "Brilliant red, orange or yellow fall colour; many cultivars have red or purple leaves all season.",
+     "status": "needs_check"
+    }
+   ],
+   "lookalikes": [
+    {
+     "name": "vine maple",
+     "text": "Vine maple leaves are rounder with 7-9 shallow lobes rather than deeply cut ones.",
+     "status": "needs_check"
+    }
+   ],
+   "design": {
+    "text": "An excellent small-scale accent tree; leaves scorch in hot, reflective sites.",
+    "status": "needs_check"
+   },
+   "ecology": {
+    "text": "Cultivated in Japan for centuries, with hundreds of named cultivars.",
+    "status": "needs_check"
+   },
+   "controversy": {
+    "text": "Should native vine maple replace Japanese maple in campus plantings where a similar form is wanted?",
+    "status": "needs_check"
+   },
+   "tour_point": {
+    "text": "Campus has red-leaved 'Atropurpureum', lace-leaf 'Dissectum' and coral-bark 'Sangokaku', all one species.",
+    "status": "needs_check"
+   }
+  },
+  {
+   "id": "acer-x-freemanii",
+   "common": "Freeman maple",
+   "botanical": "Acer × freemanii",
+   "group": "broadleaf",
+   "native": {
+    "value": false,
+    "text": "Non-native hybrid of two eastern North American maples (red × silver)",
+    "status": "needs_check"
+   },
+   "id_features": [
+    {
+     "type": "leaf",
+     "text": "Opposite leaves with 3-5 lobes, more deeply cut than red maple but less than silver maple.",
+     "status": "needs_check"
+    },
+    {
+     "type": "seasonal",
+     "text": "Bright red to orange fall colour in cultivars such as 'Autumn Blaze'.",
+     "status": "needs_check"
+    },
+    {
+     "type": "form",
+     "text": "Vigorous, upright to oval crown.",
+     "status": "needs_check"
+    }
+   ],
+   "lookalikes": [
+    {
+     "name": "red maple",
+     "text": "Red maple leaves usually have 3 shallow lobes and red leaf stalks; hybrids can be hard to separate.",
+     "status": "needs_check"
+    },
+    {
+     "name": "silver maple",
+     "text": "Silver maple leaves are very deeply cut with silvery undersides.",
+     "status": "needs_check"
+    }
+   ],
+   "design": {
+    "text": "Heavily planted as a street tree because it combines silver maple's vigour with red maple's fall colour.",
+    "status": "needs_check"
+   },
+   "ecology": {
+    "text": "The cross also occurs naturally where the two parent species overlap.",
+    "status": "needs_check"
+   },
+   "controversy": {
+    "text": "Maple overload: maples (Acer) make up about 22% of identified campus trees, above the 20% per-genus guideline often used for urban forest diversity. What happens if a maple pest arrives?",
+    "status": "needs_check"
+   },
+   "tour_point": {
+    "text": "A hybrid of two eastern maples. Use it to introduce the 10-20-30 diversity guideline with real UBC numbers.",
+    "status": "needs_check"
+   }
+  },
+  {
+   "id": "prunus-serrulata",
+   "common": "Japanese flowering cherry",
+   "botanical": "Prunus serrulata",
+   "group": "broadleaf",
+   "native": {
+    "value": false,
+    "text": "Non-native: East Asia (mostly garden cultivars)",
+    "status": "needs_check"
+   },
+   "id_features": [
+    {
+     "type": "flower",
+     "text": "Showy clusters of pink or white flowers, often double, in April, with or just before reddish-bronze new leaves.",
+     "status": "needs_check"
+    },
+    {
+     "type": "bark",
+     "text": "Shiny reddish-brown bark with prominent horizontal stripes (lenticels).",
+     "status": "needs_check"
+    },
+    {
+     "type": "leaf",
+     "text": "Oval leaves with finely toothed, bristle-tipped edges.",
+     "status": "needs_check"
+    }
+   ],
+   "lookalikes": [
+    {
+     "name": "Yoshino cherry (Prunus × yedoensis)",
+     "text": "Single, pale pink-white flowers that open before the leaves, usually earlier than Kanzan-type cherries; 'Akebono' is on campus.",
+     "status": "needs_check"
+    },
+    {
+     "name": "cherry plum (Prunus cerasifera)",
+     "text": "Smaller, earlier single flowers, and usually purple leaves.",
+     "status": "needs_check"
+    }
+   ],
+   "design": {
+    "text": "A spectacular two-week spring show from a short-lived tree prone to diseases such as bacterial canker.",
+    "status": "needs_check"
+   },
+   "ecology": {
+    "text": "Most campus trees are grafted garden cultivars (the Sato-zakura group); double-flowered ones such as 'Kanzan' rarely set fruit.",
+    "status": "needs_check"
+   },
+   "controversy": {
+    "text": "Is two weeks of blossom worth the street space of a short-lived, disease-prone tree?",
+    "status": "needs_check"
+   },
+   "tour_point": {
+    "text": "Read the bark: horizontal lenticel stripes identify cherries year-round, even in winter.",
+    "status": "needs_check"
+   }
+  },
+  {
+   "id": "quercus-rubra",
+   "common": "northern red oak",
+   "botanical": "Quercus rubra",
+   "group": "broadleaf",
+   "native": {
+    "value": false,
+    "text": "Non-native: eastern North America",
+    "status": "needs_check"
+   },
+   "id_features": [
+    {
+     "type": "leaf",
+     "text": "Leaves with 7-11 pointed, bristle-tipped lobes; the gaps between lobes reach about halfway to the midrib.",
+     "status": "needs_check"
+    },
+    {
+     "type": "bark",
+     "text": "Ridged bark with smooth, flat, shiny stripes running down the ridges ('ski tracks') on mature trunks.",
+     "status": "needs_check"
+    },
+    {
+     "type": "fruit",
+     "text": "Large acorns (2-3 cm) with a shallow, beret-like cap; they take two years to mature.",
+     "status": "needs_check"
+    }
+   ],
+   "lookalikes": [
+    {
+     "name": "pin oak",
+     "text": "Pin oak leaves are smaller with deep C-shaped gaps, lower branches droop, and acorns are small.",
+     "status": "needs_check"
+    },
+    {
+     "name": "Garry oak",
+     "text": "Garry oak leaves have rounded lobes with no bristle tips (white oak group).",
+     "status": "needs_check"
+    }
+   ],
+   "design": {
+    "text": "One of the faster-growing oaks; a large, long-lived shade tree for wide boulevards.",
+    "status": "needs_check"
+   },
+   "ecology": {
+    "text": "Red oak group oaks have bristle-tipped lobes and acorns that take two years to mature; white oak group oaks (Garry, English) have rounded lobes and one-year acorns.",
+    "status": "needs_check"
+   },
+   "controversy": {
+    "text": "",
+    "status": "blank"
+   },
+   "tour_point": {
+    "text": "Bristle tips mean red oak group. Walk from a red oak to a Garry oak to compare the two groups.",
+    "status": "needs_check"
+   }
+  },
+  {
+   "id": "cercidiphyllum-japonicum",
+   "common": "katsura",
+   "botanical": "Cercidiphyllum japonicum",
+   "group": "broadleaf",
+   "native": {
+    "value": false,
+    "text": "Non-native: Japan and China",
+    "status": "needs_check"
+   },
+   "id_features": [
+    {
+     "type": "leaf",
+     "text": "Rounded to heart-shaped leaves with scalloped edges, opposite on long shoots; new leaves emerge reddish-purple.",
+     "status": "needs_check"
+    },
+    {
+     "type": "seasonal",
+     "text": "Fall leaves turn yellow, apricot and pink and smell like burnt sugar or cotton candy.",
+     "status": "needs_check"
+    },
+    {
+     "type": "bark",
+     "text": "Often multi-stemmed, with shaggy, shredding bark on older trunks.",
+     "status": "needs_check"
+    }
+   ],
+   "lookalikes": [
+    {
+     "name": "redbud (Cercis)",
+     "text": "Redbud also has heart-shaped leaves, but they are alternate with smooth edges, and it has pink pea-like flowers on bare branches in spring.",
+     "status": "needs_check"
+    }
+   ],
+   "design": {
+    "text": "Needs steady moisture; leaves scorch and drop early in drought and heat.",
+    "status": "needs_check"
+   },
+   "ecology": {
+    "text": "The sweet smell comes from maltol, a compound released as the fallen leaves break down.",
+    "status": "needs_check"
+   },
+   "controversy": {
+    "text": "",
+    "status": "blank"
+   },
+   "tour_point": {
+    "text": "The name means 'Cercis-leaf'. In October, sniff the fallen leaves for burnt sugar. University Boulevard is lined with them.",
+    "status": "needs_check"
+   }
+  },
+  {
+   "id": "cornus-kousa",
+   "common": "kousa dogwood",
+   "botanical": "Cornus kousa",
+   "group": "broadleaf",
+   "native": {
+    "value": false,
+    "text": "Non-native: Japan, Korea and China",
+    "status": "needs_check"
+   },
+   "id_features": [
+    {
+     "type": "flower",
+     "text": "Four pointed, creamy-white bracts in early summer, after the leaves are out.",
+     "status": "needs_check"
+    },
+    {
+     "type": "fruit",
+     "text": "Round, bumpy, pinkish-red fruit like a raspberry on a long stalk in late summer; edible.",
+     "status": "needs_check"
+    },
+    {
+     "type": "bark",
+     "text": "Mottled bark that flakes in patches of tan, grey and brown on older trees.",
+     "status": "needs_check"
+    }
+   ],
+   "lookalikes": [
+    {
+     "name": "Pacific dogwood",
+     "text": "Pacific dogwood usually shows 4-7 rounded bracts, blooms earlier in spring, and has clusters of separate red fruits.",
+     "status": "needs_check"
+    },
+    {
+     "name": "eastern flowering dogwood",
+     "text": "Its 4 bracts have notched tips, it blooms before the leaves, and its fruits are in clusters.",
+     "status": "needs_check"
+    }
+   ],
+   "design": {
+    "text": "Widely planted as an alternative to native dogwoods because it is more resistant to dogwood anthracnose.",
+    "status": "needs_check"
+   },
+   "ecology": {
+    "text": "The fruit is eaten by birds and people, though it is seedy.",
+    "status": "needs_check"
+   },
+   "controversy": {
+    "text": "Does replacing native Pacific dogwood with disease-resistant kousa make sense for wildlife and local identity?",
+    "status": "needs_check"
+   },
+   "tour_point": {
+    "text": "Taste test in September: the fruit is edible. The biggest campus cluster is near MacMillan.",
+    "status": "needs_check"
+   }
+  },
+  {
+   "id": "liquidambar-styraciflua",
+   "common": "sweetgum",
+   "botanical": "Liquidambar styraciflua",
+   "group": "broadleaf",
+   "native": {
+    "value": false,
+    "text": "Non-native: southeastern US to Central America",
+    "status": "needs_check"
+   },
+   "id_features": [
+    {
+     "type": "leaf",
+     "text": "Glossy, star-shaped leaves with 5-7 pointed lobes, arranged alternate (maples are opposite).",
+     "status": "needs_check"
+    },
+    {
+     "type": "fruit",
+     "text": "Spiky, woody 'gumballs' hanging on long stalks, persisting into winter.",
+     "status": "needs_check"
+    },
+    {
+     "type": "bark",
+     "text": "Deeply furrowed grey-brown bark; twigs on some trees have corky wings.",
+     "status": "needs_check"
+    }
+   ],
+   "lookalikes": [
+    {
+     "name": "maples",
+     "text": "Maples have opposite leaves and winged samaras; sweetgum has alternate leaves and spiky balls.",
+     "status": "needs_check"
+    }
+   ],
+   "design": {
+    "text": "Brilliant, long-lasting fall colour, but the spiky gumballs are a slip and litter nuisance on paths; the fruitless cultivar 'Rotundiloba' avoids them.",
+    "status": "needs_check"
+   },
+   "ecology": {
+    "text": "The name Liquidambar ('liquid amber') refers to its fragrant resin.",
+    "status": "needs_check"
+   },
+   "controversy": {
+    "text": "Fruitless cultivars solve the litter problem but remove seeds that some birds eat. Who should the tree serve?",
+    "status": "needs_check"
+   },
+   "tour_point": {
+    "text": "Opposite or alternate? A star-shaped 'maple' with alternate leaves is a sweetgum. The inventory also calls it 'alligator-wood'.",
+    "status": "needs_check"
+   }
+  },
+  {
+   "id": "platanus-x-hispanica",
+   "common": "London plane",
+   "botanical": "Platanus × hispanica",
+   "group": "broadleaf",
+   "native": {
+    "value": false,
+    "text": "Non-native hybrid (oriental plane × American sycamore)",
+    "status": "needs_check"
+   },
+   "id_features": [
+    {
+     "type": "bark",
+     "text": "Camouflage-patterned bark that flakes off in patches of cream, olive and grey.",
+     "status": "needs_check"
+    },
+    {
+     "type": "leaf",
+     "text": "Large, maple-like leaves with 3-5 lobes, arranged alternate; the hollow base of the leaf stalk hides the bud.",
+     "status": "needs_check"
+    },
+    {
+     "type": "fruit",
+     "text": "Round, bristly seed balls on long stalks, usually two per stalk, hanging into winter.",
+     "status": "needs_check"
+    }
+   ],
+   "lookalikes": [
+    {
+     "name": "American sycamore",
+     "text": "Seed balls usually single, and the upper bark is whiter.",
+     "status": "needs_check"
+    },
+    {
+     "name": "sycamore maple",
+     "text": "Despite the name, a maple: opposite leaves and winged samaras.",
+     "status": "needs_check"
+    }
+   ],
+   "design": {
+    "text": "A classic tough urban tree that tolerates compaction, pollution and heavy pruning such as pollarding.",
+    "status": "needs_check"
+   },
+   "ecology": {
+    "text": "Anthracnose, a fungal disease, causes spring leaf and shoot blight in cool, wet springs.",
+    "status": "needs_check"
+   },
+   "controversy": {
+    "text": "Fine hairs shed from leaves and seed balls can irritate eyes and airways. Is it still the right default city tree?",
+    "status": "needs_check"
+   },
+   "tour_point": {
+    "text": "Pull off a leaf: the bud is hidden inside the hollow base of the stalk. A hybrid that became the street tree of many world cities.",
+    "status": "needs_check"
+   }
+  },
+  {
+   "id": "ilex-aquifolium",
+   "common": "English holly",
+   "botanical": "Ilex aquifolium",
+   "group": "broadleaf",
+   "native": {
+    "value": false,
+    "text": "Non-native: Europe, western Asia and North Africa",
+    "status": "needs_check"
+   },
+   "id_features": [
+    {
+     "type": "leaf",
+     "text": "Glossy, leathery, dark green evergreen leaves with wavy, spiny edges; upper leaves on older plants are often less spiny.",
+     "status": "needs_check"
+    },
+    {
+     "type": "fruit",
+     "text": "Bright red berries in winter, on female plants only.",
+     "status": "needs_check"
+    },
+    {
+     "type": "form",
+     "text": "Dense, pyramidal shrub or small tree with smooth grey bark.",
+     "status": "needs_check"
+    }
+   ],
+   "lookalikes": [
+    {
+     "name": "Oregon-grape (Berberis aquifolium)",
+     "text": "Spiny leaflets on compound leaves, and blue berries.",
+     "status": "needs_check"
+    },
+    {
+     "name": "holly-leaved osmanthus",
+     "text": "Leaves are opposite; holly leaves are alternate.",
+     "status": "needs_check"
+    }
+   ],
+   "design": {
+    "text": "A traditional hedge and festive greenery plant, but bird-spread seeds let it escape into nearby forests such as Pacific Spirit Regional Park.",
+    "status": "needs_check"
+   },
+   "ecology": {
+    "text": "Birds eat the berries and spread the seeds; shade-tolerant seedlings form dense thickets in the forest understory.",
+    "status": "needs_check"
+   },
+   "controversy": {
+    "text": "Holly is grown commercially for holiday greenery in the region while volunteers pull it out of forests. Plant it or pull it?",
+    "status": "needs_check"
+   },
+   "tour_point": {
+    "text": "Compare spiny lower leaves with smoother upper leaves; research suggests browsing pressure influences how prickly holly leaves are.",
+    "status": "needs_check"
+   }
+  }
+ ]
+}

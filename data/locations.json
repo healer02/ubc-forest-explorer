@@ -1,0 +1,1120 @@
+{
+ "thuja-plicata": {
+  "count": 1053,
+  "spots": [
+   {
+    "label": "Totem Park",
+    "count": 142,
+    "lat": 49.259584,
+    "lon": -123.253975
+   },
+   {
+    "label": "near Chan Centre",
+    "count": 50,
+    "lat": 49.270037,
+    "lon": -123.255171
+   },
+   {
+    "label": "near Doug Mitchell Centre",
+    "count": 36,
+    "lat": 49.259984,
+    "lon": -123.241786
+   },
+   {
+    "label": "First Nations Garden",
+    "count": 35,
+    "lat": 49.265759,
+    "lon": -123.257742
+   },
+   {
+    "label": "Library Garden",
+    "count": 35,
+    "lat": 49.267241,
+    "lon": -123.25365
+   }
+  ],
+  "largest_needs_check": {
+   "oid": 1445,
+   "dbh_cm": 166,
+   "height_m": 14.6,
+   "label": "near Kenny",
+   "lat": 49.263034,
+   "lon": -123.253563
+  }
+ },
+ "pseudotsuga-menziesii": {
+  "count": 566,
+  "spots": [
+   {
+    "label": "Totem Park",
+    "count": 147,
+    "lat": 49.259375,
+    "lon": -123.254087
+   },
+   {
+    "label": "near West Mall Annex",
+    "count": 25,
+    "lat": 49.266186,
+    "lon": -123.257349
+   },
+   {
+    "label": "South Commons",
+    "count": 23,
+    "lat": 49.259633,
+    "lon": -123.248441
+   },
+   {
+    "label": "near Totem Park Residence - Dene/Nootka House",
+    "count": 17,
+    "lat": 49.259007,
+    "lon": -123.253655
+   },
+   {
+    "label": "Agronomy Road · near BRDF",
+    "count": 13,
+    "lat": 49.260027,
+    "lon": -123.254657
+   }
+  ],
+  "largest_needs_check": {
+   "oid": 9686,
+   "dbh_cm": 208,
+   "height_m": 9,
+   "label": "near Totem Park Residence - Kwakiutl/Shuswap House",
+   "lat": 49.259089,
+   "lon": -123.252776
+  }
+ },
+ "tsuga-heterophylla": {
+  "count": 103,
+  "spots": [
+   {
+    "label": "near Doug Mitchell Centre",
+    "count": 20,
+    "lat": 49.260748,
+    "lon": -123.241765
+   },
+   {
+    "label": "Totem Park",
+    "count": 9,
+    "lat": 49.259653,
+    "lon": -123.254022
+   },
+   {
+    "label": "Patient Park",
+    "count": 9,
+    "lat": 49.26367,
+    "lon": -123.247086
+   },
+   {
+    "label": "Sauder Lane · near Sauder Expansion",
+    "count": 7,
+    "lat": 49.264967,
+    "lon": -123.254435
+   },
+   {
+    "label": "Scarfe Garden",
+    "count": 5,
+    "lat": 49.263796,
+    "lon": -123.253095
+   }
+  ],
+  "largest_needs_check": {
+   "oid": 9926,
+   "dbh_cm": 160,
+   "height_m": 22.6,
+   "label": "near Totem Park Residence - Dene/Nootka House",
+   "lat": 49.258849,
+   "lon": -123.253741
+  }
+ },
+ "abies-grandis": {
+  "count": 32,
+  "spots": [
+   {
+    "label": "Library Garden",
+    "count": 8,
+    "lat": 49.267163,
+    "lon": -123.25383
+   },
+   {
+    "label": "South Commons",
+    "count": 6,
+    "lat": 49.259598,
+    "lon": -123.247964
+   },
+   {
+    "label": "near Continuing Studies",
+    "count": 4,
+    "lat": 49.263171,
+    "lon": -123.255336
+   },
+   {
+    "label": "near Totem Park Residence - Kwakiutl/Shuswap House",
+    "count": 3,
+    "lat": 49.259526,
+    "lon": -123.252747
+   },
+   {
+    "label": "near West Parkade",
+    "count": 2,
+    "lat": 49.263074,
+    "lon": -123.255138
+   }
+  ],
+  "largest_needs_check": {
+   "oid": 1096,
+   "dbh_cm": 121,
+   "height_m": 27.2,
+   "label": "West Mall · near Aud Annexes",
+   "lat": 49.266554,
+   "lon": -123.257
+  }
+ },
+ "callitropsis-nootkatensis": {
+  "count": 27,
+  "spots": [
+   {
+    "label": "near Totem Park Residence - Commonsblock",
+    "count": 6,
+    "lat": 49.258063,
+    "lon": -123.252499
+   },
+   {
+    "label": "near Totem Park Residence - Kwakiutl/Shuswap House",
+    "count": 3,
+    "lat": 49.259567,
+    "lon": -123.252055
+   },
+   {
+    "label": "near Life Sciences",
+    "count": 2,
+    "lat": 49.262759,
+    "lon": -123.245661
+   },
+   {
+    "label": "East Mall · near Brock Hall",
+    "count": 2,
+    "lat": 49.26868,
+    "lon": -123.252715
+   },
+   {
+    "label": "near Chan Centre",
+    "count": 2,
+    "lat": 49.270231,
+    "lon": -123.25502
+   }
+  ],
+  "largest_needs_check": {
+   "oid": 9641,
+   "dbh_cm": 66,
+   "height_m": 21.4,
+   "label": "near Totem Park Residence - Kwakiutl/Shuswap House",
+   "lat": 49.259555,
+   "lon": -123.252112
+  }
+ },
+ "acer-circinatum": {
+  "count": 417,
+  "spots": [
+   {
+    "label": "Library Garden",
+    "count": 49,
+    "lat": 49.267097,
+    "lon": -123.253714
+   },
+   {
+    "label": "First Nations Garden",
+    "count": 17,
+    "lat": 49.265664,
+    "lon": -123.257832
+   },
+   {
+    "label": "near SRC",
+    "count": 16,
+    "lat": 49.268031,
+    "lon": -123.249134
+   },
+   {
+    "label": "Applied Sciences Lane · near Kaiser",
+    "count": 12,
+    "lat": 49.26272,
+    "lon": -123.250422
+   },
+   {
+    "label": "Patient Park",
+    "count": 11,
+    "lat": 49.263835,
+    "lon": -123.246939
+   }
+  ],
+  "largest_needs_check": {
+   "oid": 9993,
+   "dbh_cm": 75,
+   "height_m": 16.2,
+   "label": "near Totem Park Residence - Dene/Nootka House",
+   "lat": 49.258839,
+   "lon": -123.2524
+  }
+ },
+ "acer-macrophyllum": {
+  "count": 75,
+  "spots": [
+   {
+    "label": "Totem Park",
+    "count": 22,
+    "lat": 49.259425,
+    "lon": -123.254088
+   },
+   {
+    "label": "Asian Culture Garden",
+    "count": 9,
+    "lat": 49.267532,
+    "lon": -123.258763
+   },
+   {
+    "label": "Northwest Marine Drive · near Liu",
+    "count": 6,
+    "lat": 49.267652,
+    "lon": -123.259629
+   },
+   {
+    "label": "Iona Green",
+    "count": 4,
+    "lat": 49.270881,
+    "lon": -123.249505
+   },
+   {
+    "label": "near IHouse",
+    "count": 4,
+    "lat": 49.268033,
+    "lon": -123.259033
+   }
+  ],
+  "largest_needs_check": {
+   "oid": 8391,
+   "dbh_cm": 117,
+   "height_m": 24.5,
+   "label": "Northwest Marine Drive · near Marine 6",
+   "lat": 49.26091,
+   "lon": -123.257325
+  }
+ },
+ "cornus-nuttallii": {
+  "count": 71,
+  "spots": [
+   {
+    "label": "near Ponderosa West",
+    "count": 14,
+    "lat": 49.263443,
+    "lon": -123.255451
+   },
+   {
+    "label": "near Continuing Studies",
+    "count": 5,
+    "lat": 49.263446,
+    "lon": -123.25543
+   },
+   {
+    "label": "West Mall · near Ponderosa West",
+    "count": 4,
+    "lat": 49.263637,
+    "lon": -123.254938
+   },
+   {
+    "label": "Iona Drive · near Carey Lot 40",
+    "count": 4,
+    "lat": 49.271924,
+    "lon": -123.248729
+   },
+   {
+    "label": "Library Garden",
+    "count": 3,
+    "lat": 49.267136,
+    "lon": -123.254065
+   }
+  ],
+  "largest_needs_check": {
+   "oid": 2657,
+   "dbh_cm": 96,
+   "height_m": 16,
+   "label": "Library Garden",
+   "lat": 49.266617,
+   "lon": -123.253518
+  }
+ },
+ "alnus-rubra": {
+  "count": 35,
+  "spots": [
+   {
+    "label": "Totem Park",
+    "count": 8,
+    "lat": 49.25931,
+    "lon": -123.253806
+   },
+   {
+    "label": "Osoyoos Crescent · near Summer of 73 / Lilliput",
+    "count": 4,
+    "lat": 49.259429,
+    "lon": -123.236058
+   },
+   {
+    "label": "near Detwiller",
+    "count": 2,
+    "lat": 49.263457,
+    "lon": -123.243828
+   },
+   {
+    "label": "Osoyoos Crescent · near Spirit Park",
+    "count": 2,
+    "lat": 49.261129,
+    "lon": -123.238858
+   },
+   {
+    "label": "Osoyoos Crescent · near Berwick",
+    "count": 2,
+    "lat": 49.260864,
+    "lon": -123.238514
+   }
+  ],
+  "largest_needs_check": {
+   "oid": 897,
+   "dbh_cm": 63,
+   "height_m": 16,
+   "label": "near Detwiller",
+   "lat": 49.263438,
+   "lon": -123.243871
+  }
+ },
+ "arbutus-menziesii": {
+  "count": 20,
+  "spots": [
+   {
+    "label": "South Commons",
+    "count": 11,
+    "lat": 49.259521,
+    "lon": -123.248871
+   },
+   {
+    "label": "near Tec De Monterrey",
+    "count": 2,
+    "lat": 49.264106,
+    "lon": -123.259546
+   },
+   {
+    "label": "near MacLeod",
+    "count": 1,
+    "lat": 49.261551,
+    "lon": -123.249116
+   },
+   {
+    "label": "near Totem Park Residence - Commonsblock",
+    "count": 1,
+    "lat": 49.258388,
+    "lon": -123.252433
+   },
+   {
+    "label": "East Mall · near Health Parkade",
+    "count": 1,
+    "lat": 49.26359,
+    "lon": -123.248562
+   }
+  ],
+  "largest_needs_check": {
+   "oid": 1681,
+   "dbh_cm": 99,
+   "height_m": 15.6,
+   "label": "Agronomy Road · near Orchard Commons",
+   "lat": 49.260378,
+   "lon": -123.250258
+  }
+ },
+ "quercus-garryana": {
+  "count": 21,
+  "spots": [
+   {
+    "label": "South Commons",
+    "count": 17,
+    "lat": 49.259396,
+    "lon": -123.248877
+   },
+   {
+    "label": "Lower Mall · near Ponderosa Annex G",
+    "count": 1,
+    "lat": 49.2644,
+    "lon": -123.256914
+   },
+   {
+    "label": "near Totem Park Residence - Dene/Nootka House",
+    "count": 1,
+    "lat": 49.258988,
+    "lon": -123.253371
+   },
+   {
+    "label": "Stores Road · near EOS",
+    "count": 1,
+    "lat": 49.26196,
+    "lon": -123.252451
+   },
+   {
+    "label": "near Forest Sciences",
+    "count": 1,
+    "lat": 49.260534,
+    "lon": -123.247722
+   }
+  ],
+  "largest_needs_check": {
+   "oid": 9713,
+   "dbh_cm": 60,
+   "height_m": 24,
+   "label": "near Totem Park Residence - Dene/Nootka House",
+   "lat": 49.258988,
+   "lon": -123.253371
+  }
+ },
+ "pinus-nigra": {
+  "count": 242,
+  "spots": [
+   {
+    "label": "Patient Park",
+    "count": 33,
+    "lat": 49.263855,
+    "lon": -123.246896
+   },
+   {
+    "label": "near West Coast Suites",
+    "count": 15,
+    "lat": 49.269544,
+    "lon": -123.248733
+   },
+   {
+    "label": "Thunderbird Crescent · near Monashee",
+    "count": 12,
+    "lat": 49.259826,
+    "lon": -123.247892
+   },
+   {
+    "label": "Dentristry Courtyard",
+    "count": 11,
+    "lat": 49.265035,
+    "lon": -123.245791
+   },
+   {
+    "label": "BioSciences Walk · near SPPH",
+    "count": 9,
+    "lat": 49.264398,
+    "lon": -123.24883
+   }
+  ],
+  "largest_needs_check": {
+   "oid": 11841,
+   "dbh_cm": 147,
+   "height_m": 15.8,
+   "label": "near Purdy",
+   "lat": 49.262818,
+   "lon": -123.246221
+  }
+ },
+ "cedrus-deodara": {
+  "count": 46,
+  "spots": [
+   {
+    "label": "Lower Mall · near Marine 4",
+    "count": 6,
+    "lat": 49.261476,
+    "lon": -123.254917
+   },
+   {
+    "label": "open area",
+    "count": 4,
+    "lat": 49.261743,
+    "lon": -123.238033
+   },
+   {
+    "label": "near North Parkade",
+    "count": 3,
+    "lat": 49.269291,
+    "lon": -123.251436
+   },
+   {
+    "label": "near Iona",
+    "count": 3,
+    "lat": 49.271052,
+    "lon": -123.250541
+   },
+   {
+    "label": "Melfa Road · near Sopron",
+    "count": 3,
+    "lat": 49.261699,
+    "lon": -123.23565
+   }
+  ],
+  "largest_needs_check": {
+   "oid": 10300,
+   "dbh_cm": 109,
+   "height_m": 22,
+   "label": "near Totem Park Residence - Commonsblock",
+   "lat": 49.258144,
+   "lon": -123.252379
+  }
+ },
+ "sequoiadendron-giganteum": {
+  "count": 19,
+  "spots": [
+   {
+    "label": "Library Garden",
+    "count": 3,
+    "lat": 49.267438,
+    "lon": -123.253688
+   },
+   {
+    "label": "near Lower Mall Precinct - Tower 4",
+    "count": 3,
+    "lat": 49.261906,
+    "lon": -123.258042
+   },
+   {
+    "label": "near Lower Mall Precinct - Tower 5",
+    "count": 2,
+    "lat": 49.262301,
+    "lon": -123.258213
+   },
+   {
+    "label": "University Commons",
+    "count": 1,
+    "lat": 49.266146,
+    "lon": -123.250922
+   },
+   {
+    "label": "First Nations Garden",
+    "count": 1,
+    "lat": 49.265749,
+    "lon": -123.257065
+   }
+  ],
+  "largest_needs_check": {
+   "oid": 7512,
+   "dbh_cm": 178,
+   "height_m": 32.4,
+   "label": "First Nations Garden",
+   "lat": 49.265749,
+   "lon": -123.257065
+  }
+ },
+ "metasequoia-glyptostroboides": {
+  "count": 26,
+  "spots": [
+   {
+    "label": "near Totem Park Residence - Haida/Salish House",
+    "count": 9,
+    "lat": 49.257219,
+    "lon": -123.252363
+   },
+   {
+    "label": "Student Union Boulevard · near North Parkade",
+    "count": 3,
+    "lat": 49.268435,
+    "lon": -123.250903
+   },
+   {
+    "label": "Dentristry Courtyard",
+    "count": 3,
+    "lat": 49.264943,
+    "lon": -123.245648
+   },
+   {
+    "label": "Northwest Marine Drive · near Marine 6",
+    "count": 2,
+    "lat": 49.260549,
+    "lon": -123.256944
+   },
+   {
+    "label": "near c̓əsnaʔəm",
+    "count": 2,
+    "lat": 49.257093,
+    "lon": -123.252439
+   }
+  ],
+  "largest_needs_check": {
+   "oid": 10983,
+   "dbh_cm": 105,
+   "height_m": 26.8,
+   "label": "near Mackenzie",
+   "lat": 49.265562,
+   "lon": -123.259398
+  }
+ },
+ "ginkgo-biloba": {
+  "count": 44,
+  "spots": [
+   {
+    "label": "West Mall · near Choi",
+    "count": 13,
+    "lat": 49.267291,
+    "lon": -123.257801
+   },
+   {
+    "label": "Sauder Family Garden",
+    "count": 8,
+    "lat": 49.264406,
+    "lon": -123.245063
+   },
+   {
+    "label": "near EOS",
+    "count": 6,
+    "lat": 49.262787,
+    "lon": -123.252237
+   },
+   {
+    "label": "near ESB",
+    "count": 3,
+    "lat": 49.262927,
+    "lon": -123.252273
+   },
+   {
+    "label": "Dentristry Courtyard",
+    "count": 2,
+    "lat": 49.265345,
+    "lon": -123.246037
+   }
+  ],
+  "largest_needs_check": {
+   "oid": 3644,
+   "dbh_cm": 47,
+   "height_m": 9.9,
+   "label": "near EOS",
+   "lat": 49.262813,
+   "lon": -123.252262
+  }
+ },
+ "acer-platanoides": {
+  "count": 408,
+  "spots": [
+   {
+    "label": "East Mall",
+    "count": 29,
+    "lat": 49.255723,
+    "lon": -123.242286
+   },
+   {
+    "label": "Wesbrook Mall · near Fraternity",
+    "count": 22,
+    "lat": 49.259349,
+    "lon": -123.239442
+   },
+   {
+    "label": "East Mall · near FPInnovations",
+    "count": 22,
+    "lat": 49.256851,
+    "lon": -123.243131
+   },
+   {
+    "label": "East Mall · near Tennis/Mass Care",
+    "count": 21,
+    "lat": 49.259506,
+    "lon": -123.245208
+   },
+   {
+    "label": "East Mall · near Feric",
+    "count": 17,
+    "lat": 49.257821,
+    "lon": -123.243874
+   }
+  ],
+  "largest_needs_check": {
+   "oid": 9681,
+   "dbh_cm": 90,
+   "height_m": 15.4,
+   "label": "near Totem Park Residence - Dene/Nootka House",
+   "lat": 49.258931,
+   "lon": -123.252451
+  }
+ },
+ "acer-palmatum": {
+  "count": 383,
+  "spots": [
+   {
+    "label": "Library Garden",
+    "count": 19,
+    "lat": 49.267114,
+    "lon": -123.253534
+   },
+   {
+    "label": "near Totem Park Residence - Kwakiutl/Shuswap House",
+    "count": 13,
+    "lat": 49.259379,
+    "lon": -123.252282
+   },
+   {
+    "label": "near Biosciences",
+    "count": 13,
+    "lat": 49.264483,
+    "lon": -123.251483
+   },
+   {
+    "label": "near SRC",
+    "count": 12,
+    "lat": 49.26821,
+    "lon": -123.248655
+   },
+   {
+    "label": "near Totem Park Residence - Haida/Salish House",
+    "count": 11,
+    "lat": 49.257524,
+    "lon": -123.252483
+   }
+  ],
+  "largest_needs_check": {
+   "oid": 9695,
+   "dbh_cm": 121,
+   "height_m": 7,
+   "label": "near Totem Park Residence - Dene/Nootka House",
+   "lat": 49.258889,
+   "lon": -123.252728
+  }
+ },
+ "acer-x-freemanii": {
+  "count": 297,
+  "spots": [
+   {
+    "label": "Thunderbird Park",
+    "count": 45,
+    "lat": 49.255895,
+    "lon": -123.239768
+   },
+   {
+    "label": "West 16th Avenue · near UHill Secondary School",
+    "count": 23,
+    "lat": 49.254985,
+    "lon": -123.239027
+   },
+   {
+    "label": "East Mall",
+    "count": 18,
+    "lat": 49.254814,
+    "lon": -123.241551
+   },
+   {
+    "label": "near UHill Secondary School",
+    "count": 17,
+    "lat": 49.255025,
+    "lon": -123.239208
+   },
+   {
+    "label": "near Granite Terrace",
+    "count": 12,
+    "lat": 49.255559,
+    "lon": -123.237647
+   }
+  ],
+  "largest_needs_check": {
+   "oid": 8680,
+   "dbh_cm": 57,
+   "height_m": 23.2,
+   "label": "near Lower Mall Precinct - Tower 3",
+   "lat": 49.262248,
+   "lon": -123.256626
+  }
+ },
+ "prunus-serrulata": {
+  "count": 284,
+  "spots": [
+   {
+    "label": "near Totem Park Residence - Dene/Nootka House",
+    "count": 15,
+    "lat": 49.258657,
+    "lon": -123.253913
+   },
+   {
+    "label": "Student Union Boulevard · near q̓əlɬaləməcən (Orca)",
+    "count": 14,
+    "lat": 49.26868,
+    "lon": -123.249393
+   },
+   {
+    "label": "Memorial Road · near Fraser Parkade",
+    "count": 9,
+    "lat": 49.266387,
+    "lon": -123.258241
+   },
+   {
+    "label": "Thunderbird Park",
+    "count": 9,
+    "lat": 49.258281,
+    "lon": -123.241512
+   },
+   {
+    "label": "West Mall · near CIRS",
+    "count": 8,
+    "lat": 49.262061,
+    "lon": -123.253609
+   }
+  ],
+  "largest_needs_check": {
+   "oid": 9932,
+   "dbh_cm": 118,
+   "height_m": 6.1,
+   "label": "near Totem Park Residence - Dene/Nootka House",
+   "lat": 49.258708,
+   "lon": -123.253849
+  }
+ },
+ "quercus-rubra": {
+  "count": 221,
+  "spots": [
+   {
+    "label": "West Mall · near USB",
+    "count": 14,
+    "lat": 49.261264,
+    "lon": -123.253225
+   },
+   {
+    "label": "Thunderbird Boulevard · near Thunderbird Parkade",
+    "count": 12,
+    "lat": 49.261324,
+    "lon": -123.242686
+   },
+   {
+    "label": "Main Mall · near Chemistry",
+    "count": 11,
+    "lat": 49.265617,
+    "lon": -123.253248
+   },
+   {
+    "label": "Health Sciences Mall · near CEC",
+    "count": 10,
+    "lat": 49.261291,
+    "lon": -123.245314
+   },
+   {
+    "label": "Main Mall · near ESB",
+    "count": 10,
+    "lat": 49.263045,
+    "lon": -123.251605
+   }
+  ],
+  "largest_needs_check": {
+   "oid": 5541,
+   "dbh_cm": 145,
+   "height_m": 22.4,
+   "label": "Library Garden",
+   "lat": 49.267514,
+   "lon": -123.254814
+  }
+ },
+ "cercidiphyllum-japonicum": {
+  "count": 196,
+  "spots": [
+   {
+    "label": "University Boulevard · near Strangway",
+    "count": 25,
+    "lat": 49.266154,
+    "lon": -123.246323
+   },
+   {
+    "label": "University Boulevard · near Central",
+    "count": 21,
+    "lat": 49.266134,
+    "lon": -123.247216
+   },
+   {
+    "label": "University Boulevard · near Focal",
+    "count": 19,
+    "lat": 49.265887,
+    "lon": -123.248437
+   },
+   {
+    "label": "near Thunderbird Parkade",
+    "count": 12,
+    "lat": 49.26177,
+    "lon": -123.244129
+   },
+   {
+    "label": "University Boulevard · near Gateway Health",
+    "count": 10,
+    "lat": 49.2663,
+    "lon": -123.24628
+   }
+  ],
+  "largest_needs_check": {
+   "oid": 2345,
+   "dbh_cm": 73,
+   "height_m": 12,
+   "label": "Crescent Road · near Buchanan",
+   "lat": 49.269607,
+   "lon": -123.254021
+  }
+ },
+ "cornus-kousa": {
+  "count": 181,
+  "spots": [
+   {
+    "label": "near MacMillan",
+    "count": 49,
+    "lat": 49.26076,
+    "lon": -123.250988
+   },
+   {
+    "label": "near Orchard Commons",
+    "count": 20,
+    "lat": 49.260447,
+    "lon": -123.250824
+   },
+   {
+    "label": "near Ponderosa North",
+    "count": 16,
+    "lat": 49.264096,
+    "lon": -123.256131
+   },
+   {
+    "label": "Melfa Road · near Sopron",
+    "count": 8,
+    "lat": 49.262087,
+    "lon": -123.235563
+   },
+   {
+    "label": "near Fraser Parkade",
+    "count": 6,
+    "lat": 49.266162,
+    "lon": -123.257519
+   }
+  ],
+  "largest_needs_check": {
+   "oid": 3624,
+   "dbh_cm": 72,
+   "height_m": 24.2,
+   "label": "near MacMillan",
+   "lat": 49.260843,
+   "lon": -123.250115
+  }
+ },
+ "liquidambar-styraciflua": {
+  "count": 161,
+  "spots": [
+   {
+    "label": "East Mall · near FNH",
+    "count": 13,
+    "lat": 49.26401,
+    "lon": -123.249197
+   },
+   {
+    "label": "Agronomy Road · near Sitka",
+    "count": 9,
+    "lat": 49.263053,
+    "lon": -123.241935
+   },
+   {
+    "label": "Fairview Avenue · near Fairview 2",
+    "count": 9,
+    "lat": 49.262631,
+    "lon": -123.239613
+   },
+   {
+    "label": "Sopron Lane · near Monashee",
+    "count": 9,
+    "lat": 49.260221,
+    "lon": -123.247562
+   },
+   {
+    "label": "Fire Access Lane · near Hazelton",
+    "count": 8,
+    "lat": 49.259389,
+    "lon": -123.250413
+   }
+  ],
+  "largest_needs_check": {
+   "oid": 2370,
+   "dbh_cm": 103,
+   "height_m": 23.3,
+   "label": "Memorial Road · near Buchanan",
+   "lat": 49.268065,
+   "lon": -123.254372
+  }
+ },
+ "platanus-x-hispanica": {
+  "count": 133,
+  "spots": [
+   {
+    "label": "Thunderbird Park",
+    "count": 50,
+    "lat": 49.257244,
+    "lon": -123.238987
+   },
+   {
+    "label": "Health Sciences Courtyard",
+    "count": 14,
+    "lat": 49.265226,
+    "lon": -123.247855
+   },
+   {
+    "label": "University Boulevard · near Ponderosa West",
+    "count": 6,
+    "lat": 49.263667,
+    "lon": -123.25548
+   },
+   {
+    "label": "BioSciences Walk · near SPPH",
+    "count": 5,
+    "lat": 49.264477,
+    "lon": -123.248474
+   },
+   {
+    "label": "University Boulevard · near Biosciences",
+    "count": 5,
+    "lat": 49.264993,
+    "lon": -123.251806
+   }
+  ],
+  "largest_needs_check": {
+   "oid": 687,
+   "dbh_cm": 72,
+   "height_m": 11,
+   "label": "Lower Mall · near Marine 5",
+   "lat": 49.261399,
+   "lon": -123.254845
+  }
+ },
+ "ilex-aquifolium": {
+  "count": 33,
+  "spots": [
+   {
+    "label": "near Chemistry",
+    "count": 4,
+    "lat": 49.265868,
+    "lon": -123.253153
+   },
+   {
+    "label": "Somerset Lane · near Music",
+    "count": 4,
+    "lat": 49.267609,
+    "lon": -123.25725
+   },
+   {
+    "label": "West Mall · near BOps Shed",
+    "count": 3,
+    "lat": 49.262276,
+    "lon": -123.253825
+   },
+   {
+    "label": "near Purdy",
+    "count": 3,
+    "lat": 49.263615,
+    "lon": -123.245416
+   },
+   {
+    "label": "near West Mall Annex",
+    "count": 2,
+    "lat": 49.266185,
+    "lon": -123.257326
+   }
+  ],
+  "largest_needs_check": {
+   "oid": 698,
+   "dbh_cm": 71,
+   "height_m": 12.9,
+   "label": "East Mall · near Brock Hall",
+   "lat": 49.268286,
+   "lon": -123.25229
+  }
+ }
+}
